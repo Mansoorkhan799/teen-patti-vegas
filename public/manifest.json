@@ -1,0 +1,23 @@
+{
+  "name": "Teen Patti Vegas",
+  "short_name": "Teen Patti Vegas",
+  "description": "Pakistan's top Teen Patti casino platform offering Teen Patti, Rummy, Dragon vs Tiger and more. Earn real cash rewards!",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#06091F",
+  "theme_color": "#06091F",
+  "icons": [
+    {
+      "src": "/teen-patti-vegas-pakistan-logo.webp",
+      "sizes": "192x192 512x512",
+      "type": "image/webp",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/teen-patti-vegas.webp",
+      "sizes": "512x512",
+      "type": "image/webp",
+      "purpose": "any"
+    }
+  ]
+}
