@@ -38,6 +38,12 @@ export const metadata: Metadata = {
     description: 'Teen Patti Vegas 2026 - Pakistan\'s #1 casino game platform. Join 600K+ players. Play Teen Patti, Rummy & more. Earn real money with JazzCash & EasyPaisa. Download now!',
     images: [
       {
+        url: 'https://teenpattivegasgame.com.pk/teen-patti-vegas.webp',
+        width: 512,
+        height: 512,
+        alt: 'Teen Patti Vegas - Official App Icon | Pakistan\'s #1 Casino Game - Download APK'
+      },
+      {
         url: 'https://teenpattivegasgame.com.pk/feature/og-image.webp',
         width: 1200,
         height: 630,
@@ -56,7 +62,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Teen Patti Vegas Pakistan v1.3 Free Download Official APK',
     description: 'Teen Patti Vegas 2026 - Pakistan\'s #1 casino game platform. Join 600K+ players. Play Teen Patti, Rummy & more. Earn real money with JazzCash & EasyPaisa. Download now!',
-    images: ['https://teenpattivegasgame.com.pk/feature/og-image.webp']
+    images: ['https://teenpattivegasgame.com.pk/teen-patti-vegas.webp', 'https://teenpattivegasgame.com.pk/feature/og-image.webp']
   }
 };
 
@@ -132,6 +138,14 @@ export default function Home() {
           "@type": "Organization",
           "name": "3 Patti Vegas"
         }
+      },
+      {
+        "@type": "ImageObject",
+        "@id": "https://teenpattivegasgame.com.pk/#teenspattivegas-hero-image",
+        "contentUrl": "https://teenpattivegasgame.com.pk/teen-patti-vegas.webp",
+        "url": "https://teenpattivegasgame.com.pk/teen-patti-vegas.webp",
+        "name": "Teen Patti Vegas - Official App Icon",
+        "description": "Teen Patti Vegas Pakistan v1.3 - Official app icon. Download the #1 casino game for Android. Play Teen Patti, Rummy, Dragon vs Tiger and earn real money with JazzCash and EasyPaisa."
       },
       {
         "@type": "FAQPage",
@@ -285,7 +299,7 @@ export default function Home() {
             <div className="relative ml-auto" style={{ width: '320px', height: '320px', maxWidth: '100%' }}>
               <Image
                 src="/teen-patti-vegas.webp"
-                alt="Teen Patti Vegas Logo"
+                alt="Teen Patti Vegas - Official App Icon | Pakistan's #1 Casino Game - Download APK"
                 width={320}
                 height={320}
                 className="object-contain drop-shadow-2xl"
@@ -303,7 +317,7 @@ export default function Home() {
             <div className="relative mx-auto" style={{ width: '280px', height: '280px', maxWidth: '100%' }}>
               <Image
                 src="/teen-patti-vegas.webp"
-                alt="Teen Patti Vegas Logo"
+                alt="Teen Patti Vegas - Official App Icon | Pakistan's #1 Casino Game - Download APK"
                 width={280}
                 height={280}
                 className="object-contain drop-shadow-2xl"
