@@ -71,6 +71,13 @@ export default function Home() {
     "@context": "https://schema.org",
     "@graph": [
       {
+        "@type": "BreadcrumbList",
+        "@id": "https://teenpattivegasgame.com.pk/#breadcrumb",
+        "itemListElement": [
+          { "@type": "ListItem", position: 1, name: "Home", item: "https://teenpattivegasgame.com.pk/" }
+        ]
+      },
+      {
         "@type": "WebSite",
         "@id": "https://teenpattivegasgame.com.pk/#website",
         "url": "https://teenpattivegasgame.com.pk/",
@@ -228,6 +235,18 @@ export default function Home() {
         strategy="afterInteractive"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaData) }}
       />
+
+      {/* Breadcrumb */}
+      <nav aria-label="Breadcrumb" className="px-4 md:px-8 max-w-7xl mx-auto pt-4">
+        <ol className="flex items-center gap-2 text-sm text-gray-400" itemScope itemType="https://schema.org/BreadcrumbList">
+          <li itemProp="itemListElement" itemScope itemType="https://schema.org/ListItem">
+            <Link href="/" className="text-accent hover:underline" itemProp="item">
+              <span itemProp="name">Home</span>
+            </Link>
+            <meta itemProp="position" content="1" />
+          </li>
+        </ol>
+      </nav>
       
       {/* Hero Section */}
       <section className="py-8 md:py-16 px-4 md:px-8 max-w-7xl mx-auto" style={{ minHeight: '400px' }}>
