@@ -467,6 +467,37 @@ export default function TeenPattiVegasForPCPage() {
         </div>
       </section>
 
+      {/* Helpful Guides */}
+      <section className="py-10 px-4 md:px-8 max-w-7xl mx-auto">
+        <h2 className="text-2xl md:text-3xl font-bold mb-6 text-[#FFA500]">Helpful Guides</h2>
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+          <Link href="/blog/how-to-use-teen-patti-vegas-app-pakistan-guide-2026" className="bg-secondary p-5 rounded-lg hover:border-accent border border-gray-700 transition-colors">
+            <h3 className="text-white font-semibold mb-1">📖 Complete Beginner&apos;s Guide</h3>
+            <p className="text-gray-400 text-sm">Download, register, deposit, play & withdraw</p>
+          </Link>
+          <Link href="/blog/create-teen-patti-vegas-account-and-login" className="bg-secondary p-5 rounded-lg hover:border-accent border border-gray-700 transition-colors">
+            <h3 className="text-white font-semibold mb-1">🔐 Create Account & Login</h3>
+            <p className="text-gray-400 text-sm">Step-by-step account setup guide</p>
+          </Link>
+          <Link href="/blog/teen-patti-vegas-bonuses-vip-guide" className="bg-secondary p-5 rounded-lg hover:border-accent border border-gray-700 transition-colors">
+            <h3 className="text-white font-semibold mb-1">🎁 Bonuses & VIP Guide</h3>
+            <p className="text-gray-400 text-sm">All bonus types and how to maximise them</p>
+          </Link>
+          <Link href="/blog/tips-to-win-big-in-teen-patti-vegas" className="bg-secondary p-5 rounded-lg hover:border-accent border border-gray-700 transition-colors">
+            <h3 className="text-white font-semibold mb-1">🏆 Tips to Win Big</h3>
+            <p className="text-gray-400 text-sm">Proven strategies for bigger winnings</p>
+          </Link>
+          <Link href="/blog/teen-patti-vegas-app-review-2026" className="bg-secondary p-5 rounded-lg hover:border-accent border border-gray-700 transition-colors">
+            <h3 className="text-white font-semibold mb-1">⭐ App Review 2026</h3>
+            <p className="text-gray-400 text-sm">Honest features, pros, cons & payout speed review</p>
+          </Link>
+          <Link href="/blog/is-teen-patti-vegas-safe-legal-pakistan" className="bg-secondary p-5 rounded-lg hover:border-accent border border-gray-700 transition-colors">
+            <h3 className="text-white font-semibold mb-1">🔒 Is It Safe & Legal?</h3>
+            <p className="text-gray-400 text-sm">Safety analysis and legal status in Pakistan</p>
+          </Link>
+        </div>
+      </section>
+
       {/* Back to Home */}
       <section className="py-8 px-4 md:px-8 max-w-7xl mx-auto text-center">
         <Link href="/" className="text-[#0ea5e9] hover:text-[#6366f1] font-medium transition-colors">

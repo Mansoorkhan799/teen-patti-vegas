@@ -413,6 +413,22 @@ export default function BlogTeenPattiVegasAppReview() {
               <h4 className="text-xl font-semibold text-white mb-2">Responsible Gaming Guide</h4>
               <p className="text-gray-400">How to play safely and responsibly</p>
             </Link>
+            <Link href="/blog/teen-patti-vegas-bonuses-vip-guide" className="block p-6 bg-purple-800/30 rounded-lg hover:bg-purple-800/50 transition-colors">
+              <h4 className="text-xl font-semibold text-white mb-2">Bonuses & VIP Guide</h4>
+              <p className="text-gray-400">All bonuses, VIP tiers & how to maximise rewards</p>
+            </Link>
+            <Link href="/blog/ways-to-earn-money-with-teen-patti-vegas-2026" className="block p-6 bg-purple-800/30 rounded-lg hover:bg-purple-800/50 transition-colors">
+              <h4 className="text-xl font-semibold text-white mb-2">Ways to Earn Money 2026</h4>
+              <p className="text-gray-400">Every income method: daily tasks, referrals & more</p>
+            </Link>
+            <Link href="/blog/tips-to-win-big-in-teen-patti-vegas" className="block p-6 bg-purple-800/30 rounded-lg hover:bg-purple-800/50 transition-colors">
+              <h4 className="text-xl font-semibold text-white mb-2">Tips to Win Big</h4>
+              <p className="text-gray-400">Proven strategies to increase your winnings</p>
+            </Link>
+            <Link href="/download-teen-patti-vegas" className="block p-6 bg-purple-800/30 rounded-lg hover:bg-purple-800/50 transition-colors">
+              <h4 className="text-xl font-semibold text-white mb-2">Download Teen Patti Vegas APK</h4>
+              <p className="text-gray-400">Get the latest v1.3 APK for Android</p>
+            </Link>
           </div>
         </aside>
       </article>

@@ -372,6 +372,22 @@ export default function BlogIsTeenPattiVegasSafeLegal() {
               <h4 className="text-xl font-semibold text-white mb-2">Complete Beginner&apos;s Guide</h4>
               <p className="text-gray-400">Step-by-step safe setup and play guide</p>
             </Link>
+            <Link href="/blog/is-teen-patti-vegas-real-or-fake" className="block p-6 bg-purple-800/30 rounded-lg hover:bg-purple-800/50 transition-colors">
+              <h4 className="text-xl font-semibold text-white mb-2">Is Teen Patti Vegas Real or Fake?</h4>
+              <p className="text-gray-400">Legitimacy check & how to spot fake apps</p>
+            </Link>
+            <Link href="/blog/teen-patti-vegas-app-review-2026" className="block p-6 bg-purple-800/30 rounded-lg hover:bg-purple-800/50 transition-colors">
+              <h4 className="text-xl font-semibold text-white mb-2">App Review 2026</h4>
+              <p className="text-gray-400">Honest review: features, payout speed & VIP</p>
+            </Link>
+            <Link href="/withdraw-money-from-teen-patti-vegas" className="block p-6 bg-purple-800/30 rounded-lg hover:bg-purple-800/50 transition-colors">
+              <h4 className="text-xl font-semibold text-white mb-2">How to Withdraw Money</h4>
+              <p className="text-gray-400">Step-by-step withdrawal guide via JazzCash & EasyPaisa</p>
+            </Link>
+            <Link href="/blog/teen-patti-vegas-bonuses-vip-guide" className="block p-6 bg-purple-800/30 rounded-lg hover:bg-purple-800/50 transition-colors">
+              <h4 className="text-xl font-semibold text-white mb-2">Bonuses & VIP Guide</h4>
+              <p className="text-gray-400">All rewards, VIP tiers & how to claim them</p>
+            </Link>
           </div>
         </aside>
       </article>

@@ -87,6 +87,16 @@ export default function Footer() {
                 </Link>
               </li>
               <li>
+                <Link href="/blog/how-to-use-teen-patti-vegas-app-pakistan-guide-2026" className="text-gray-300 hover:text-accent transition-colors">
+                  Beginner&apos;s Guide
+                </Link>
+              </li>
+              <li>
+                <Link href="/blog/teen-patti-vegas-bonuses-vip-guide" className="text-gray-300 hover:text-accent transition-colors">
+                  Bonuses & VIP Guide
+                </Link>
+              </li>
+              <li>
                 <Link href="/privacy" className="text-gray-300 hover:text-accent transition-colors">
                   Privacy Policy
                 </Link>

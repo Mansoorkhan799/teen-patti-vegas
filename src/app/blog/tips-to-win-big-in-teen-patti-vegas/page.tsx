@@ -285,6 +285,28 @@ export default function TipsToWinBig() {
         </div>
       </div>
 
+      <aside className="mt-12 pt-8 border-t border-gray-700 container mx-auto px-4 max-w-4xl">
+        <h3 className="text-2xl font-bold text-white mb-6">Related Guides</h3>
+        <div className="grid md:grid-cols-2 gap-4">
+          <Link href="/blog/teen-patti-vegas-tips-10-smart-tricks" className="block p-5 bg-[#0A1029] rounded-lg hover:bg-[#0A1029]/70 transition-colors">
+            <h4 className="text-white font-semibold mb-1">🧠 10 Smart Tricks to Play Safely</h4>
+            <p className="text-gray-400 text-sm">Bankroll management, game selection & bonus tips</p>
+          </Link>
+          <Link href="/blog/dragon-vs-tiger-andar-bahar-high-payout-games" className="block p-5 bg-[#0A1029] rounded-lg hover:bg-[#0A1029]/70 transition-colors">
+            <h4 className="text-white font-semibold mb-1">🎯 Best High-Payout Games</h4>
+            <p className="text-gray-400 text-sm">Dragon vs Tiger, Andar Bahar & highest win-rate games</p>
+          </Link>
+          <Link href="/blog/teen-patti-vegas-bonuses-vip-guide" className="block p-5 bg-[#0A1029] rounded-lg hover:bg-[#0A1029]/70 transition-colors">
+            <h4 className="text-white font-semibold mb-1">🎁 Bonuses & VIP Guide</h4>
+            <p className="text-gray-400 text-sm">Maximise welcome bonus, rebates & VIP rewards</p>
+          </Link>
+          <Link href="/blog/ways-to-earn-money-with-teen-patti-vegas-2026" className="block p-5 bg-[#0A1029] rounded-lg hover:bg-[#0A1029]/70 transition-colors">
+            <h4 className="text-white font-semibold mb-1">💰 Ways to Earn Money 2026</h4>
+            <p className="text-gray-400 text-sm">Referrals, bonuses, daily tasks & more income streams</p>
+          </Link>
+        </div>
+      </aside>
+
       <Script
         id="blog-post-schema"
         type="application/ld+json"

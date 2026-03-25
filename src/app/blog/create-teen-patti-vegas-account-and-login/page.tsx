@@ -243,6 +243,28 @@ export default function CreateAccountLogin() {
         </div>
       </div>
 
+      <aside className="mt-12 pt-8 border-t border-gray-700 container mx-auto px-4 max-w-4xl">
+        <h3 className="text-2xl font-bold text-white mb-6">Next Steps After Creating Your Account</h3>
+        <div className="grid md:grid-cols-2 gap-4">
+          <Link href="/deposit-money-in-teen-patti-vegas" className="block p-5 bg-[#0A1029] rounded-lg hover:bg-[#0A1029]/70 transition-colors">
+            <h4 className="text-white font-semibold mb-1">💳 How to Deposit Money</h4>
+            <p className="text-gray-400 text-sm">Fund your account with JazzCash or EasyPaisa</p>
+          </Link>
+          <Link href="/withdraw-money-from-teen-patti-vegas" className="block p-5 bg-[#0A1029] rounded-lg hover:bg-[#0A1029]/70 transition-colors">
+            <h4 className="text-white font-semibold mb-1">💸 How to Withdraw Money</h4>
+            <p className="text-gray-400 text-sm">Cash out your winnings fast and securely</p>
+          </Link>
+          <Link href="/blog/teen-patti-vegas-bonuses-vip-guide" className="block p-5 bg-[#0A1029] rounded-lg hover:bg-[#0A1029]/70 transition-colors">
+            <h4 className="text-white font-semibold mb-1">🎁 Bonuses & VIP Guide</h4>
+            <p className="text-gray-400 text-sm">Welcome bonus, VIP levels & all rewards explained</p>
+          </Link>
+          <Link href="/blog/how-to-use-teen-patti-vegas-app-pakistan-guide-2026" className="block p-5 bg-[#0A1029] rounded-lg hover:bg-[#0A1029]/70 transition-colors">
+            <h4 className="text-white font-semibold mb-1">📖 Complete Beginner&apos;s Guide</h4>
+            <p className="text-gray-400 text-sm">Download, register, deposit, play & withdraw</p>
+          </Link>
+        </div>
+      </aside>
+
       <Script
         id="blog-post-schema"
         type="application/ld+json"

@@ -153,6 +153,20 @@ export default function Blog() {
           </Link>
         </div>
 
+        {/* 3 Patti Vegas VIP Membership */}
+        <div className="bg-secondary px-8 py-8 rounded-lg hover:shadow-lg transition-all border-2 border-gray-700 hover:border-accent">
+          <h2 className="text-2xl font-bold mb-4 text-white">3 Patti Vegas VIP Membership: Unlock Exclusive Bonuses</h2>
+          <p className="text-gray-300 mb-4">How VIP works on Teen Patti Vegas: VIP transfer from other apps, new player deposit match, recharge rebates up to 30%, refer &amp; earn, and double bonus — aligned with the official home page.</p>
+          <div className="flex items-center gap-2 text-sm text-gray-400 mb-4">
+            <span>📅 March 2026</span>
+            <span>•</span>
+            <span>11 min read</span>
+          </div>
+          <Link href="/blog/3patti-vegas-vip-membership-unlock-exclusive-bonuses" className="text-accent hover:underline font-semibold">
+            Read More →
+          </Link>
+        </div>
+
         {/* Is Teen Patti Vegas Safe */}
         <div className="bg-secondary px-8 py-8 rounded-lg hover:shadow-lg transition-all border-2 border-gray-700 hover:border-accent">
           <h2 className="text-2xl font-bold mb-4 text-white">Is Teen Patti Vegas Safe and Legal in Pakistan? Risks, Rules, and Safe Play Tips</h2>

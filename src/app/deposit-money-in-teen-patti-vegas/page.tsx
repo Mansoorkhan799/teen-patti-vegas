@@ -315,6 +315,37 @@ export default function DepositMoneyPage() {
         </div>
       </section>
 
+      {/* Helpful Guides */}
+      <section className="py-10 px-4 md:px-8 max-w-4xl mx-auto">
+        <h2 className="text-2xl md:text-3xl font-bold mb-6 text-accent">Related Guides</h2>
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <Link href="/withdraw-money-from-teen-patti-vegas" className="bg-secondary p-5 rounded-lg hover:border-accent border border-gray-700 transition-colors">
+            <h3 className="text-white font-semibold mb-1">💸 How to Withdraw Money</h3>
+            <p className="text-gray-400 text-sm">Cash out your winnings via JazzCash & EasyPaisa</p>
+          </Link>
+          <Link href="/blog/create-teen-patti-vegas-account-and-login" className="bg-secondary p-5 rounded-lg hover:border-accent border border-gray-700 transition-colors">
+            <h3 className="text-white font-semibold mb-1">🔐 Create Account & Login</h3>
+            <p className="text-gray-400 text-sm">Set up your account before depositing</p>
+          </Link>
+          <Link href="/blog/teen-patti-vegas-bonuses-vip-guide" className="bg-secondary p-5 rounded-lg hover:border-accent border border-gray-700 transition-colors">
+            <h3 className="text-white font-semibold mb-1">🎁 Bonuses & VIP Guide</h3>
+            <p className="text-gray-400 text-sm">Get matched deposit bonuses and recharge rebates</p>
+          </Link>
+          <Link href="/blog/3patti-vegas-vip-membership-unlock-exclusive-bonuses" className="bg-secondary p-5 rounded-lg hover:border-accent border border-gray-700 transition-colors">
+            <h3 className="text-white font-semibold mb-1">👑 VIP Membership Bonuses</h3>
+            <p className="text-gray-400 text-sm">Exclusive perks unlocked by depositing more</p>
+          </Link>
+          <Link href="/blog/tips-to-win-big-in-teen-patti-vegas" className="bg-secondary p-5 rounded-lg hover:border-accent border border-gray-700 transition-colors">
+            <h3 className="text-white font-semibold mb-1">🏆 Tips to Win Big</h3>
+            <p className="text-gray-400 text-sm">Maximise returns on every deposit</p>
+          </Link>
+          <Link href="/blog/how-to-use-teen-patti-vegas-app-pakistan-guide-2026" className="bg-secondary p-5 rounded-lg hover:border-accent border border-gray-700 transition-colors">
+            <h3 className="text-white font-semibold mb-1">📖 Complete Beginner&apos;s Guide</h3>
+            <p className="text-gray-400 text-sm">Download, register, deposit, play & earn</p>
+          </Link>
+        </div>
+      </section>
+
       {/* Structured Data - Article + HowTo + FAQ for AI citation */}
       <script
         type="application/ld+json"

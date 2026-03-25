@@ -380,6 +380,22 @@ export default function TeenPattiVegasRealOrFakePage() {
                 <h4 className="text-white font-semibold mb-2">🔐 Account & Login Guide</h4>
                 <p className="text-gray-400 text-sm">Step-by-step instructions for setting up and securing your account</p>
               </Link>
+              <Link href="/blog/is-teen-patti-vegas-safe-legal-pakistan" className="bg-[#0A1029] p-4 rounded-lg hover:bg-[#0A1029]/70 transition-colors">
+                <h4 className="text-white font-semibold mb-2">🔒 Is Teen Patti Vegas Safe & Legal?</h4>
+                <p className="text-gray-400 text-sm">Full safety analysis, legal status & security guide</p>
+              </Link>
+              <Link href="/blog/teen-patti-vegas-app-review-2026" className="bg-[#0A1029] p-4 rounded-lg hover:bg-[#0A1029]/70 transition-colors">
+                <h4 className="text-white font-semibold mb-2">⭐ App Review 2026</h4>
+                <p className="text-gray-400 text-sm">Honest review: features, pros, cons & payout speed</p>
+              </Link>
+              <Link href="/blog/how-to-use-teen-patti-vegas-app-pakistan-guide-2026" className="bg-[#0A1029] p-4 rounded-lg hover:bg-[#0A1029]/70 transition-colors">
+                <h4 className="text-white font-semibold mb-2">📖 Beginner&apos;s Guide Pakistan 2026</h4>
+                <p className="text-gray-400 text-sm">Complete guide: download, register, deposit & earn</p>
+              </Link>
+              <Link href="/blog/ways-to-earn-money-with-teen-patti-vegas-2026" className="bg-[#0A1029] p-4 rounded-lg hover:bg-[#0A1029]/70 transition-colors">
+                <h4 className="text-white font-semibold mb-2">💰 Ways to Earn Money 2026</h4>
+                <p className="text-gray-400 text-sm">All income methods: bonuses, referrals, daily tasks & more</p>
+              </Link>
             </div>
           </div>
         </section>

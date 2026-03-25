@@ -296,6 +296,37 @@ export default function DownloadPage() {
         </div>
       </section>
 
+      {/* Helpful Guides */}
+      <section className="py-10 px-4 md:px-8 max-w-7xl mx-auto">
+        <h2 className="text-2xl md:text-3xl font-bold mb-6 text-[#FFA500]">Helpful Guides</h2>
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+          <Link href="/blog/create-teen-patti-vegas-account-and-login" className="bg-secondary p-5 rounded-lg hover:border-accent border border-gray-700 transition-colors">
+            <h3 className="text-white font-semibold mb-1">🔐 Create Account & Login</h3>
+            <p className="text-gray-400 text-sm">Step-by-step account setup and login guide</p>
+          </Link>
+          <Link href="/blog/how-to-use-teen-patti-vegas-app-pakistan-guide-2026" className="bg-secondary p-5 rounded-lg hover:border-accent border border-gray-700 transition-colors">
+            <h3 className="text-white font-semibold mb-1">📖 Complete Beginner&apos;s Guide</h3>
+            <p className="text-gray-400 text-sm">From installation to your first withdrawal</p>
+          </Link>
+          <Link href="/blog/teen-patti-vegas-bonuses-vip-guide" className="bg-secondary p-5 rounded-lg hover:border-accent border border-gray-700 transition-colors">
+            <h3 className="text-white font-semibold mb-1">🎁 Bonuses & VIP Guide</h3>
+            <p className="text-gray-400 text-sm">Welcome bonus, VIP transfer & recharge rebates</p>
+          </Link>
+          <Link href="/blog/tips-to-win-big-in-teen-patti-vegas" className="bg-secondary p-5 rounded-lg hover:border-accent border border-gray-700 transition-colors">
+            <h3 className="text-white font-semibold mb-1">🏆 Tips to Win Big</h3>
+            <p className="text-gray-400 text-sm">Expert strategies to increase your winnings</p>
+          </Link>
+          <Link href="/blog/ways-to-earn-money-with-teen-patti-vegas-2026" className="bg-secondary p-5 rounded-lg hover:border-accent border border-gray-700 transition-colors">
+            <h3 className="text-white font-semibold mb-1">💰 Ways to Earn Money 2026</h3>
+            <p className="text-gray-400 text-sm">Referrals, daily tasks, bonuses & more</p>
+          </Link>
+          <Link href="/blog/is-teen-patti-vegas-real-or-fake" className="bg-secondary p-5 rounded-lg hover:border-accent border border-gray-700 transition-colors">
+            <h3 className="text-white font-semibold mb-1">✅ Is It Real or Fake?</h3>
+            <p className="text-gray-400 text-sm">Legitimacy check & how to spot fake APKs</p>
+          </Link>
+        </div>
+      </section>
+
       {/* Back to Home */}
       <section className="py-8 px-4 md:px-8 max-w-7xl mx-auto text-center">
         <Link href="/" className="text-[#0ea5e9] hover:text-[#6366f1] font-medium transition-colors">

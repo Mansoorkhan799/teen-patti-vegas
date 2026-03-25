@@ -408,6 +408,22 @@ export default function BlogResponsibleGamingGuide() {
               <h4 className="text-xl font-semibold text-white mb-2">10 Smart Tips for Safer Play</h4>
               <p className="text-gray-400">Strategies for profitable and responsible gaming</p>
             </Link>
+            <Link href="/blog/is-teen-patti-vegas-real-or-fake" className="block p-6 bg-purple-800/30 rounded-lg hover:bg-purple-800/50 transition-colors">
+              <h4 className="text-xl font-semibold text-white mb-2">Is Teen Patti Vegas Real or Fake?</h4>
+              <p className="text-gray-400">Legitimacy, payment proof & how to avoid fake apps</p>
+            </Link>
+            <Link href="/blog/how-to-use-teen-patti-vegas-app-pakistan-guide-2026" className="block p-6 bg-purple-800/30 rounded-lg hover:bg-purple-800/50 transition-colors">
+              <h4 className="text-xl font-semibold text-white mb-2">Complete Beginner&apos;s Guide</h4>
+              <p className="text-gray-400">Safe setup, gameplay and withdrawal guide</p>
+            </Link>
+            <Link href="/blog/ways-to-earn-money-with-teen-patti-vegas-2026" className="block p-6 bg-purple-800/30 rounded-lg hover:bg-purple-800/50 transition-colors">
+              <h4 className="text-xl font-semibold text-white mb-2">Ways to Earn Money 2026</h4>
+              <p className="text-gray-400">Income methods to make the most of your sessions</p>
+            </Link>
+            <Link href="/blog/teen-patti-vegas-app-review-2026" className="block p-6 bg-purple-800/30 rounded-lg hover:bg-purple-800/50 transition-colors">
+              <h4 className="text-xl font-semibold text-white mb-2">App Review 2026</h4>
+              <p className="text-gray-400">Honest review: features, pros & cons</p>
+            </Link>
           </div>
         </aside>
       </article>

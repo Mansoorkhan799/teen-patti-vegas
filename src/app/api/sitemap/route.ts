@@ -128,6 +128,7 @@ export async function GET() {
     { url: '/blog/ways-to-earn-money-with-teen-patti-vegas-2026', lastMod: new Date().toISOString(), changeFreq: 'monthly', priority: 0.8 },
     { url: '/blog/teen-patti-vegas-app-review-2026', lastMod: new Date().toISOString(), changeFreq: 'monthly', priority: 0.9 },
     { url: '/blog/teen-patti-vegas-bonuses-vip-guide', lastMod: new Date().toISOString(), changeFreq: 'monthly', priority: 0.8 },
+    { url: '/blog/3patti-vegas-vip-membership-unlock-exclusive-bonuses', lastMod: new Date().toISOString(), changeFreq: 'monthly', priority: 0.8 },
     { url: '/blog/teen-patti-vegas-tips-10-smart-tricks', lastMod: new Date().toISOString(), changeFreq: 'monthly', priority: 0.8 },
     { url: '/blog/is-teen-patti-vegas-safe-legal-pakistan', lastMod: new Date().toISOString(), changeFreq: 'monthly', priority: 0.8 },
     { url: '/blog/responsible-gaming-guide-teen-patti-vegas', lastMod: new Date().toISOString(), changeFreq: 'monthly', priority: 0.8 },
