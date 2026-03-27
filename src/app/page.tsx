@@ -841,7 +841,7 @@ export default function Home() {
               <li>Open the TeenPatti Vegas app on your mobile.</li>
               <li>Go to the Withdraw section in the game.</li>
               <li>Enter the amount that you wish to withdraw.</li>
-              <li>Choose your payment option, like Easypaisa or JazzCash.</li>
+              <li>Choose your payment option, like Easypaisa, JazzCash, or Bank Card.</li>
               <li>Fill in your correct payment details carefully.</li>
               <li>Tap on the Confirm option to proceed with the process.</li>
               <li>It will take a few minutes, so wait patiently.</li>
