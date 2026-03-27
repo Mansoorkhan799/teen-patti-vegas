@@ -89,15 +89,35 @@ export default function AboutPage() {
           <div className="bg-gradient-to-r from-orange-600 to-orange-500 rounded-2xl shadow-xl p-8 md:p-12 mb-12">
             <h2 className="text-3xl md:text-4xl font-bold mb-6 text-white text-center">Our Aim!</h2>
             <p className="text-lg md:text-xl text-white leading-relaxed text-center">
-              Our aim is to provide the users with the latest and updated information and earning tips about Teen Patti Vegas. For any type of information or query, you can visit our <Link href="/contact-us" className="underline hover:text-orange-100 font-semibold">contact us page</Link>.
+              Our aim is to provide the users with the latest and updated information and earning tips about Teen Patti Vegas. Browse our <Link href="/blog" className="underline hover:text-orange-100 font-semibold">blog</Link> for guides, tips, and reviews. For any queries, visit our <Link href="/contact-us" className="underline hover:text-orange-100 font-semibold">contact us page</Link>.
             </p>
+          </div>
+
+          {/* Helpful Resources */}
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-12">
+            <Link href="/deposit-money-in-teen-patti-vegas" className="bg-secondary p-5 rounded-xl border border-gray-700 hover:border-accent transition-colors">
+              <h3 className="text-white font-semibold mb-1">💳 How to Deposit Money</h3>
+              <p className="text-gray-400 text-sm">Add funds via JazzCash or EasyPaisa</p>
+            </Link>
+            <Link href="/withdraw-money-from-teen-patti-vegas" className="bg-secondary p-5 rounded-xl border border-gray-700 hover:border-accent transition-colors">
+              <h3 className="text-white font-semibold mb-1">💸 How to Withdraw Money</h3>
+              <p className="text-gray-400 text-sm">Cash out your winnings securely</p>
+            </Link>
+            <Link href="/blog/how-to-use-teen-patti-vegas-app-pakistan-guide-2026" className="bg-secondary p-5 rounded-xl border border-gray-700 hover:border-accent transition-colors">
+              <h3 className="text-white font-semibold mb-1">📖 Beginner&apos;s Guide</h3>
+              <p className="text-gray-400 text-sm">Step-by-step: download, register & earn</p>
+            </Link>
+            <Link href="/blog/is-teen-patti-vegas-safe-legal-pakistan" className="bg-secondary p-5 rounded-xl border border-gray-700 hover:border-accent transition-colors">
+              <h3 className="text-white font-semibold mb-1">🔒 Is It Safe & Legal?</h3>
+              <p className="text-gray-400 text-sm">Full safety and legal review for Pakistan</p>
+            </Link>
           </div>
           
           {/* Contact CTA */}
           <div className="bg-secondary rounded-2xl shadow-xl p-8 text-center">
             <h2 className="text-2xl font-bold mb-4 text-white">Have Questions?</h2>
             <p className="text-gray-300 mb-6 text-lg">
-              We're here to help! Contact our team for any information or queries about Teen Patti Vegas.
+              We&apos;re here to help! Contact our team for any information or queries about Teen Patti Vegas.
             </p>
             <Link 
               href="/contact-us" 

@@ -90,11 +90,11 @@ export default function Disclaimer() {
                   <ul className="mt-4 space-y-2 text-gray-300">
                     <li className="flex items-start">
                       <span className="text-blue-600 mr-2">✓</span>
-                      <span>Verify local laws before engaging with any gaming platform</span>
+                      <span>Verify local laws before engaging with any gaming platform — see <Link href="/blog/is-teen-patti-vegas-safe-legal-pakistan" className="text-accent hover:underline font-semibold">our safety & legal guide</Link></span>
                     </li>
                     <li className="flex items-start">
                       <span className="text-blue-600 mr-2">✓</span>
-                      <span>Play responsibly and within your means</span>
+                      <span>Play responsibly and within your means — read our <Link href="/blog/responsible-gaming-guide-teen-patti-vegas" className="text-accent hover:underline font-semibold">responsible gaming guide</Link></span>
                     </li>
                     <li className="flex items-start">
                       <span className="text-blue-600 mr-2">✓</span>
@@ -119,7 +119,7 @@ export default function Disclaimer() {
               <div className="mt-12 p-6 bg-secondary rounded-xl border-2 border-accent">
                 <h2 className="text-2xl font-bold mb-4 text-white">Questions?</h2>
                 <p className="text-gray-300 mb-4">
-                  If you have any questions about this Disclaimer, please feel free to contact us.
+                  If you have any questions about this Disclaimer, please feel free to contact us. You can also read our <Link href="/privacy" className="text-accent hover:underline font-semibold">Privacy Policy</Link>.
                 </p>
                 <Link 
                   href="/contact-us" 

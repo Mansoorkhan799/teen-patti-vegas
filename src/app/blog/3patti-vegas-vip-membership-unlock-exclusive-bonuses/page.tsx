@@ -70,9 +70,9 @@ export default function Blog3PattiVegasVipMembership() {
             <Link href="/" className="text-[#FFA500] hover:underline font-semibold">
               3 Patti Vegas
             </Link>{' '}
-            (Teen Patti Vegas) is built so that the more you play and fund your account, the more the platform gives back through VIP perks, matched deposits, and ongoing rebates. This article pulls the same reward structure highlighted on the{' '}
-            <Link href="/" className="text-[#FFA500] hover:underline font-semibold">
-              official home page
+            (Teen Patti Vegas) is built so that the more you play and fund your account, the more the platform gives back through VIP perks, matched deposits, and ongoing rebates. This article pulls the same reward structure from our{' '}
+            <Link href="/blog/teen-patti-vegas-bonuses-vip-guide" className="text-[#FFA500] hover:underline font-semibold">
+              full bonuses & VIP guide
             </Link>{' '}
             so you can see how VIP membership unlocks exclusive bonuses in one place.
           </p>

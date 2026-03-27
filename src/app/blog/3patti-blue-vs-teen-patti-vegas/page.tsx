@@ -320,13 +320,21 @@ export default function Blog3PattiBlueVsTeenPattiVegas() {
         <aside className="mt-16 pt-8 border-t border-gray-700">
           <h3 className="text-2xl font-bold text-white mb-6">Related Comparisons &amp; Guides</h3>
           <div className="grid md:grid-cols-2 gap-6">
-            <Link href="/blog/3patti-lucky-vs-teen-patti-vegas" className="block p-6 bg-purple-800/30 rounded-lg hover:bg-purple-800/50 transition-colors">
-              <h4 className="text-xl font-semibold text-white mb-2">3Patti Lucky vs Teen Patti Vegas</h4>
-              <p className="text-gray-400">How does 3Patti Lucky measure up against Teen Patti Vegas?</p>
+            <Link href="/blog/3patti-gold-vs-teen-patti-vegas" className="block p-6 bg-purple-800/30 rounded-lg hover:bg-purple-800/50 transition-colors">
+              <h4 className="text-xl font-semibold text-white mb-2">3Patti Gold vs Teen Patti Vegas</h4>
+              <p className="text-gray-400">Does 3Patti Gold&apos;s table variety beat Teen Patti Vegas?</p>
+            </Link>
+            <Link href="/blog/3patti-room-vs-teen-patti-vegas" className="block p-6 bg-purple-800/30 rounded-lg hover:bg-purple-800/50 transition-colors">
+              <h4 className="text-xl font-semibold text-white mb-2">3Patti Room vs Teen Patti Vegas</h4>
+              <p className="text-gray-400">Private room gameplay vs the full casino experience</p>
             </Link>
             <Link href="/blog/teen-patti-vegas-app-review-2026" className="block p-6 bg-purple-800/30 rounded-lg hover:bg-purple-800/50 transition-colors">
               <h4 className="text-xl font-semibold text-white mb-2">Teen Patti Vegas Full Review 2026</h4>
               <p className="text-gray-400">An in-depth honest review of the Teen Patti Vegas platform</p>
+            </Link>
+            <Link href="/blog/is-teen-patti-vegas-real-or-fake" className="block p-6 bg-purple-800/30 rounded-lg hover:bg-purple-800/50 transition-colors">
+              <h4 className="text-xl font-semibold text-white mb-2">Is Teen Patti Vegas Real or Fake?</h4>
+              <p className="text-gray-400">Legitimacy check and how to identify fake clones</p>
             </Link>
           </div>
         </aside>

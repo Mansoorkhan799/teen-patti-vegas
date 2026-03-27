@@ -524,6 +524,14 @@ export default function BlogTeenPattiVegasBonusesVIPGuide() {
               <h4 className="text-xl font-semibold text-white mb-2">Tips to Win Big</h4>
               <p className="text-gray-400">Game strategies to maximise your earnings</p>
             </Link>
+            <Link href="/blog/3patti-vegas-vip-membership-unlock-exclusive-bonuses" className="block p-6 bg-purple-800/30 rounded-lg hover:bg-purple-800/50 transition-colors">
+              <h4 className="text-xl font-semibold text-white mb-2">VIP Membership Deep Dive</h4>
+              <p className="text-gray-400">Exclusive VIP perks, transfer bonuses, and monthly rewards</p>
+            </Link>
+            <Link href="/withdraw-money-from-teen-patti-vegas" className="block p-6 bg-purple-800/30 rounded-lg hover:bg-purple-800/50 transition-colors">
+              <h4 className="text-xl font-semibold text-white mb-2">How to Withdraw Money</h4>
+              <p className="text-gray-400">Cash out your winnings via JazzCash or EasyPaisa</p>
+            </Link>
           </div>
         </aside>
       </article>

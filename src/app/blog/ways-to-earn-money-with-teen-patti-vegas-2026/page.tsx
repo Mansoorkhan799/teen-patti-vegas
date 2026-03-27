@@ -280,6 +280,12 @@ export default function BlogWaysToEarnMoneyWithTeenPattiVegas2026() {
             </ol>
           </div>
 
+          <h2 className="text-3xl font-bold text-white mt-12 mb-6">Depositing and Withdrawing Your Earnings</h2>
+
+          <p className="text-gray-300 mb-4">
+            To start earning bonuses, you first need to fund your account. Our <Link href="/deposit-money-in-teen-patti-vegas" className="text-[#FFA500] hover:underline font-semibold">deposit guide</Link> walks you through how to add money via JazzCash or EasyPaisa in minutes. Once you have winnings to cash out, follow the <Link href="/withdraw-money-from-teen-patti-vegas" className="text-[#FFA500] hover:underline font-semibold">withdrawal guide</Link> to transfer your earnings back to your mobile wallet securely.
+          </p>
+
           <h2 className="text-3xl font-bold text-white mt-12 mb-6">Closing Thoughts</h2>
           
           <p className="text-gray-300 mb-4">
@@ -287,7 +293,7 @@ export default function BlogWaysToEarnMoneyWithTeenPattiVegas2026() {
           </p>
 
           <p className="text-gray-300 mb-4">
-            The most straightforward first step is simply ensuring you log in daily to claim the login bonus and review what tasks are available. Everything else builds from that foundation.
+            The most straightforward first step is simply ensuring you log in daily to claim the login bonus and review what tasks are available. Everything else builds from that foundation. For the full VIP breakdown, see our <Link href="/blog/3patti-vegas-vip-membership-unlock-exclusive-bonuses" className="text-[#FFA500] hover:underline font-semibold">VIP membership guide</Link>.
           </p>
 
           <div className="mt-12 text-center">

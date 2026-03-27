@@ -263,7 +263,7 @@ export default function Home() {
             </div>
             
             <p className="text-lg text-gray-300 leading-relaxed" style={{ contain: 'layout style', minHeight: '120px', display: 'block' }}>
-              <Link href="/" className="text-accent hover:underline">Teen Patti Vegas</Link>, also known as 3 Patti Vegas, is one of the best casino games where players can play various games and earn real money. It is mostly played in Pakistan, and it works efficiently on Android devices. You can play more than 35 games and place bets on them to earn real cash.
+              Teen Patti Vegas, also known as 3 Patti Vegas, is one of the best casino games where players can play various games and earn real money. It is mostly played in Pakistan, and it works efficiently on Android devices. You can play more than 35 games and place bets on them to earn real cash. Visit our <Link href="/download-teen-patti-vegas" className="text-accent hover:underline font-semibold">download page</Link> to get the latest APK.
             </p>
 
             {/* Download Button */}
@@ -414,10 +414,10 @@ export default function Home() {
           <h2 className="text-3xl font-bold mb-8 text-[#FFA500]">What is the Teen Patti Vegas Game?</h2>
           <div className="space-y-6">
             <p className="text-gray-300 leading-relaxed">
-              Teen Patti Vegas Game is an app that gives you fun and comfort when you play different online games. It can give you money if you play games smartly. Some games of this wagering platform are based on luck, while other games require skills and practice. You can bet on live sports matches that make this game more exciting.
+              Teen Patti Vegas Game is an app that gives you fun and comfort when you play different online games. It can give you money if you play games smartly. Some games of this wagering platform are based on luck, while other games require skills and practice. You can bet on live sports matches that make this game more exciting. Not sure if it&apos;s legit? Read our <Link href="/blog/is-teen-patti-vegas-real-or-fake" className="text-accent hover:underline font-semibold">real or fake guide</Link>.
             </p>
             <p className="text-gray-300 leading-relaxed">
-              It is not difficult to play for anyone because it is made with a simple design. You can also change the language to Urdu for better understanding and comfort. Users can enjoy daily, weekly, and monthly bonuses that are provided by the platform. Your VIP level increases when you deposit more money, and it means you can get higher rewards and special offers.
+              It is not difficult to play for anyone because it is made with a simple design. You can also change the language to Urdu for better understanding and comfort. Users can enjoy daily, weekly, and monthly bonuses that are provided by the platform. Your VIP level increases when you deposit more money, and it means you can get higher rewards and special offers. New to the app? Follow our <Link href="/blog/how-to-use-teen-patti-vegas-app-pakistan-guide-2026" className="text-accent hover:underline font-semibold">complete beginner&apos;s guide</Link>.
             </p>
           </div>
         </div>
@@ -431,7 +431,7 @@ export default function Home() {
           {/* Refer & Earn */}
           <div className="mb-8">
             <h3 className="text-xl font-semibold mb-4 text-[#FFA500]">Refer & Earn</h3>
-            <p className="text-gray-300 mb-4">You can earn money on TeenPatti Vegas just by referring your friends and family to the game. Each valid sub player on this game helps you earn up to 800 to 1000 rupees as a bonus.</p>
+            <p className="text-gray-300 mb-4">You can earn money on TeenPatti Vegas just by referring your friends and family to the game. Each valid sub player on this game helps you earn up to 800 to 1000 rupees as a bonus. See all <Link href="/blog/ways-to-earn-money-with-teen-patti-vegas-2026" className="text-accent hover:underline font-semibold">ways to earn money</Link> on Teen Patti Vegas.</p>
           </div>
 
           {/* New Player Bonus */}
@@ -461,7 +461,7 @@ export default function Home() {
           {/* VIP Promo */}
           <div className="mb-8">
             <h3 className="text-xl font-semibold mb-4 text-[#FFA500]">VIP Promo</h3>
-            <p className="text-gray-300 mb-4">If you are a VIP on another platform, then switch your level to the TeenPatti Vegas game and get heavy salaries and bonuses.</p>
+            <p className="text-gray-300 mb-4">If you are a VIP on another platform, then switch your level to the TeenPatti Vegas game and get heavy salaries and bonuses. Learn more in our <Link href="/blog/3patti-vegas-vip-membership-unlock-exclusive-bonuses" className="text-accent hover:underline font-semibold">VIP membership guide</Link>.</p>
             <div className="overflow-x-auto">
               <table className="min-w-full divide-y divide-gray-800 rounded-lg overflow-hidden">
                 <thead className="bg-[#0a1029]">
@@ -525,11 +525,11 @@ export default function Home() {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             <div className="bg-[#0A1029] p-6 rounded-lg">
               <h3 className="text-xl font-semibold mb-3 text-[#FFA500]">1. Download the App</h3>
-              <p className="text-gray-300">Visit the official website or a trusted source to download the TeenPatti Vegas APK on your Android phone. Click on the download button. Once done, install it by allowing unknown sources in your phone settings.</p>
+              <p className="text-gray-300">Visit our <Link href="/download-teen-patti-vegas" className="text-accent hover:underline font-semibold">download page</Link> to get the latest Teen Patti Vegas APK for Android. Once downloaded, install it by enabling unknown sources in your phone settings.</p>
             </div>
             <div className="bg-[#0A1029] p-6 rounded-lg">
               <h3 className="text-xl font-semibold mb-3 text-[#FFA500]">2. Create your Account</h3>
-              <p className="text-gray-300">After successfully installing, open the app and start creating your account. You will get a small bonus after registration to start the game.</p>
+              <p className="text-gray-300">After installing, open the app and <Link href="/blog/create-teen-patti-vegas-account-and-login" className="text-accent hover:underline font-semibold">create your account</Link>. You will get a small bonus after registration to start the game.</p>
             </div>
             <div className="bg-[#0A1029] p-6 rounded-lg">
               <h3 className="text-xl font-semibold mb-3 text-[#FFA500]">3. Choose your Game</h3>
@@ -541,7 +541,7 @@ export default function Home() {
             </div>
             <div className="bg-[#0A1029] p-6 rounded-lg md:col-span-2 lg:col-span-1">
               <h3 className="text-xl font-semibold mb-3 text-[#FFA500]">5. Withdraw your Winnings</h3>
-              <p className="text-gray-300">When you have collected enough money in your wallet, withdraw your winnings quickly using Easypaisa and JazzCash. The withdrawal process is easy, simple, fast, and secure.</p>
+              <p className="text-gray-300">When you have collected enough money, <Link href="/withdraw-money-from-teen-patti-vegas" className="text-accent hover:underline font-semibold">withdraw your winnings</Link> quickly using EasyPaisa and JazzCash. The withdrawal process is easy, simple, fast, and secure.</p>
             </div>
           </div>
         </div>

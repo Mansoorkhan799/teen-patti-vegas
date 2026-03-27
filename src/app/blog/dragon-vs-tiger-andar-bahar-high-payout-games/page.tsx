@@ -370,13 +370,13 @@ export default function BlogHighPayoutGames() {
         <aside className="mt-16 pt-8 border-t border-gray-700">
           <h3 className="text-2xl font-bold text-white mb-6">Related Articles</h3>
           <div className="grid md:grid-cols-2 gap-6">
-            <Link href="/blog/tips-to-win-big-in-teen-patti-vegas" className="block p-6 bg-purple-800/30 rounded-lg hover:bg-purple-800/50 transition-colors">
-              <h4 className="text-xl font-semibold text-white mb-2">Tips to Win Big in Teen Patti Vegas</h4>
-              <p className="text-gray-400">Proven strategies across all game types</p>
+            <Link href="/blog/teen-patti-vegas-tips-10-smart-tricks" className="block p-6 bg-purple-800/30 rounded-lg hover:bg-purple-800/50 transition-colors">
+              <h4 className="text-xl font-semibold text-white mb-2">10 Smart Tricks to Play Safely</h4>
+              <p className="text-gray-400">Bankroll management, bonus tips & safer play strategies</p>
             </Link>
-            <Link href="/blog/how-to-use-teen-patti-vegas-app-pakistan-guide-2026" className="block p-6 bg-purple-800/30 rounded-lg hover:bg-purple-800/50 transition-colors">
-              <h4 className="text-xl font-semibold text-white mb-2">Complete Beginner&apos;s Guide</h4>
-              <p className="text-gray-400">From download to first withdrawal — all steps covered</p>
+            <Link href="/blog/teen-patti-vegas-bonuses-vip-guide" className="block p-6 bg-purple-800/30 rounded-lg hover:bg-purple-800/50 transition-colors">
+              <h4 className="text-xl font-semibold text-white mb-2">Bonuses & VIP Guide</h4>
+              <p className="text-gray-400">Maximise every bonus, VIP perk, and reward on offer</p>
             </Link>
           </div>
         </aside>

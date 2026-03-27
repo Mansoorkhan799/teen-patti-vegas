@@ -364,9 +364,9 @@ export default function BlogIsTeenPattiVegasSafeLegal() {
         <aside className="mt-16 pt-8 border-t border-gray-700">
           <h3 className="text-2xl font-bold text-white mb-6">Related Safety Guides</h3>
           <div className="grid md:grid-cols-2 gap-6">
-            <Link href="/blog/responsible-gaming-guide-teen-patti-vegas" className="block p-6 bg-purple-800/30 rounded-lg hover:bg-purple-800/50 transition-colors">
-              <h4 className="text-xl font-semibold text-white mb-2">Responsible Gaming Guide</h4>
-              <p className="text-gray-400">How to enjoy Teen Patti Vegas safely without addiction</p>
+            <Link href="/blog/ips-exceed-issue-teen-patti-vegas-how-to-fix" className="block p-6 bg-purple-800/30 rounded-lg hover:bg-purple-800/50 transition-colors">
+              <h4 className="text-xl font-semibold text-white mb-2">Fix IPs Exceed Error</h4>
+              <p className="text-gray-400">Common login and IP issues — how to resolve them fast</p>
             </Link>
             <Link href="/blog/how-to-use-teen-patti-vegas-app-pakistan-guide-2026" className="block p-6 bg-purple-800/30 rounded-lg hover:bg-purple-800/50 transition-colors">
               <h4 className="text-xl font-semibold text-white mb-2">Complete Beginner&apos;s Guide</h4>

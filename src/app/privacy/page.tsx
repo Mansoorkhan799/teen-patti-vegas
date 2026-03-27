@@ -235,7 +235,7 @@ export default function PrivacyPolicyPage() {
               
               <div className="bg-[#0A1029] rounded-xl p-6 mt-8 text-center">
                 <p className="text-gray-400 text-sm mb-4">
-                  By using Teen Patti Vegas, you consent to this Privacy Policy and agree to its terms.
+                  By using Teen Patti Vegas, you consent to this Privacy Policy and agree to its terms. Also read our <Link href="/disclaimer" className="text-accent hover:underline">Disclaimer</Link> and our <Link href="/blog/responsible-gaming-guide-teen-patti-vegas" className="text-accent hover:underline">Responsible Gaming Guide</Link>.
                 </p>
                 <p className="text-gray-400 text-sm">
                   © 2026 Teen Patti Vegas. All rights reserved.
