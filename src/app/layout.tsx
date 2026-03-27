@@ -197,9 +197,15 @@ export default function RootLayout({
             __html: JSON.stringify({
               "@context": "https://schema.org",
               "@type": "Organization",
+              "@id": "https://teenpattivegasgame.com.pk/#organization",
               "name": "Teen Patti Vegas",
               "url": "https://teenpattivegasgame.com.pk",
-              "logo": "https://teenpattivegasgame.com.pk/teen-patti-vegas-pakistan-logo.webp",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://teenpattivegasgame.com.pk/teen-patti-vegas-pakistan-logo.webp",
+                "width": 192,
+                "height": 192
+              },
               "description": "Teen Patti Vegas is Pakistan's top casino gaming platform, offering Teen Patti, Rummy, Dragon vs Tiger and many other games with real cash rewards.",
               "sameAs": [
                 "https://www.facebook.com/share/16zhtoNKJq/?mibextid=wwXIfr",
@@ -218,8 +224,12 @@ export default function RootLayout({
               "@context": "https://schema.org",
               "@type": "SoftwareApplication",
               "name": "Teen Patti Vegas",
-              "operatingSystem": "Android",
+              "url": "https://teenpattivegasgame.com.pk/",
+              "operatingSystem": "Android 5.0+",
               "applicationCategory": "GameApplication",
+              "author": {
+                "@id": "https://teenpattivegasgame.com.pk/#organization"
+              },
               "offers": {
                 "@type": "Offer",
                 "price": "0",

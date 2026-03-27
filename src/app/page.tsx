@@ -84,9 +84,8 @@ export default function Home() {
         "name": "Teen Patti Vegas",
         "description": "Pakistan's top casino game platform with Teen Patti, Rummy, Dragon Tiger and more",
         "inLanguage": "en-US",
-        "potentialAction": {
-          "@type": "ViewAction",
-          "target": "https://teenpattivegasgame.com.pk/"
+        "publisher": {
+          "@id": "https://teenpattivegasgame.com.pk/#organization"
         }
       },
       {
