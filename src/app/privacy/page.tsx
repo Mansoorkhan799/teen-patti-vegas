@@ -17,6 +17,28 @@ export const metadata: Metadata = {
   },
 };
 
+const privacySchema = {
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Privacy Policy - Teen Patti Vegas",
+  "description": "Read the Teen Patti Vegas privacy policy to understand how we collect, use, and protect your personal information.",
+  "url": "https://teenpattivegasgame.com.pk/privacy",
+  "dateModified": "2026-01-03",
+  "inLanguage": "en-US",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "Teen Patti Vegas",
+    "url": "https://teenpattivegasgame.com.pk"
+  },
+  "breadcrumb": {
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://teenpattivegasgame.com.pk" },
+      { "@type": "ListItem", "position": 2, "name": "Privacy Policy", "item": "https://teenpattivegasgame.com.pk/privacy" }
+    ]
+  }
+};
+
 export default function PrivacyPolicyPage() {
   return (
     <div className="min-h-screen bg-primary py-12 px-4">
@@ -245,6 +267,11 @@ export default function PrivacyPolicyPage() {
           </div>
         </div>
       </div>
+
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(privacySchema) }}
+      />
     </div>
   );
 } 

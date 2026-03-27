@@ -307,6 +307,56 @@ export default function Blog() {
           </Link>
         </div>
       </div>
+
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "CollectionPage",
+            "name": "Teen Patti Vegas Blog - Guides, Tips & Reviews 2026",
+            "description": "Complete Teen Patti Vegas blog: app reviews, beginner guides, tips, bonuses, safety guides and more for Pakistani players.",
+            "url": "https://teenpattivegasgame.com.pk/blog",
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@type": "WebSite",
+              "name": "Teen Patti Vegas",
+              "url": "https://teenpattivegasgame.com.pk"
+            },
+            "breadcrumb": {
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://teenpattivegasgame.com.pk" },
+                { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://teenpattivegasgame.com.pk/blog" }
+              ]
+            },
+            "mainEntity": {
+              "@type": "ItemList",
+              "itemListElement": [
+                { "@type": "ListItem", "position": 1, "name": "Is Teen Patti Vegas Real or Fake?", "url": "https://teenpattivegasgame.com.pk/blog/is-teen-patti-vegas-real-or-fake" },
+                { "@type": "ListItem", "position": 2, "name": "Teen Patti Vegas App Review 2026", "url": "https://teenpattivegasgame.com.pk/blog/teen-patti-vegas-app-review-2026" },
+                { "@type": "ListItem", "position": 3, "name": "How to Use Teen Patti Vegas App — Pakistan Guide 2026", "url": "https://teenpattivegasgame.com.pk/blog/how-to-use-teen-patti-vegas-app-pakistan-guide-2026" },
+                { "@type": "ListItem", "position": 4, "name": "Create Teen Patti Vegas Account and Login", "url": "https://teenpattivegasgame.com.pk/blog/create-teen-patti-vegas-account-and-login" },
+                { "@type": "ListItem", "position": 5, "name": "Tips to Win Big in Teen Patti Vegas", "url": "https://teenpattivegasgame.com.pk/blog/tips-to-win-big-in-teen-patti-vegas" },
+                { "@type": "ListItem", "position": 6, "name": "Teen Patti Vegas Bonuses & VIP Guide", "url": "https://teenpattivegasgame.com.pk/blog/teen-patti-vegas-bonuses-vip-guide" },
+                { "@type": "ListItem", "position": 7, "name": "Is Teen Patti Vegas Safe and Legal in Pakistan?", "url": "https://teenpattivegasgame.com.pk/blog/is-teen-patti-vegas-safe-legal-pakistan" },
+                { "@type": "ListItem", "position": 8, "name": "Responsible Gaming Guide", "url": "https://teenpattivegasgame.com.pk/blog/responsible-gaming-guide-teen-patti-vegas" },
+                { "@type": "ListItem", "position": 9, "name": "Dragon vs Tiger & Andar Bahar High Payout Games", "url": "https://teenpattivegasgame.com.pk/blog/dragon-vs-tiger-andar-bahar-high-payout-games" },
+                { "@type": "ListItem", "position": 10, "name": "Ways to Earn Money with Teen Patti Vegas 2026", "url": "https://teenpattivegasgame.com.pk/blog/ways-to-earn-money-with-teen-patti-vegas-2026" },
+                { "@type": "ListItem", "position": 11, "name": "3 Patti Vegas VIP Membership: Unlock Exclusive Bonuses", "url": "https://teenpattivegasgame.com.pk/blog/3patti-vegas-vip-membership-unlock-exclusive-bonuses" },
+                { "@type": "ListItem", "position": 12, "name": "Teen Patti Vegas 10 Smart Tricks", "url": "https://teenpattivegasgame.com.pk/blog/teen-patti-vegas-tips-10-smart-tricks" },
+                { "@type": "ListItem", "position": 13, "name": "Fix IPs Exceed Issue in Teen Patti Vegas", "url": "https://teenpattivegasgame.com.pk/blog/ips-exceed-issue-teen-patti-vegas-how-to-fix" },
+                { "@type": "ListItem", "position": 14, "name": "3Patti Blue vs Teen Patti Vegas", "url": "https://teenpattivegasgame.com.pk/blog/3patti-blue-vs-teen-patti-vegas" },
+                { "@type": "ListItem", "position": 15, "name": "3Patti Gold vs Teen Patti Vegas", "url": "https://teenpattivegasgame.com.pk/blog/3patti-gold-vs-teen-patti-vegas" },
+                { "@type": "ListItem", "position": 16, "name": "3Patti Lucky vs Teen Patti Vegas", "url": "https://teenpattivegasgame.com.pk/blog/3patti-lucky-vs-teen-patti-vegas" },
+                { "@type": "ListItem", "position": 17, "name": "3Patti Room vs Teen Patti Vegas", "url": "https://teenpattivegasgame.com.pk/blog/3patti-room-vs-teen-patti-vegas" },
+                { "@type": "ListItem", "position": 18, "name": "Teen Patti Vegas Old Version Features Review 2026", "url": "https://teenpattivegasgame.com.pk/blog/teen-patti-vegas-old-version-features-review-2026" },
+                { "@type": "ListItem", "position": 19, "name": "Teen Patti Vegas Latest Version New Features 2026", "url": "https://teenpattivegasgame.com.pk/blog/teen-patti-vegas-latest-version-new-features-2026-updates" }
+              ]
+            }
+          })
+        }}
+      />
     </div>
   );
 } 

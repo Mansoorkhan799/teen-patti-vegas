@@ -164,7 +164,7 @@ export default function AboutPage() {
             },
             "mainEntityOfPage": {
               "@type": "WebPage",
-              "@id": "https://teenpattivegasgame.com.pk/about"
+              "@id": "https://teenpattivegasgame.com.pk/about-us"
             }
           })
         }}

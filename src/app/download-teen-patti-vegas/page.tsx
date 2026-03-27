@@ -77,9 +77,9 @@ export default function DownloadPage() {
     "datePublished": "2026-01-03",
     "description": "Download Teen Patti Vegas APK free for Android. Play Teen Patti, Rummy, Dragon Tiger & more. Earn real cash with JazzCash & EasyPaisa.",
     "screenshot": [
-      "https://teenpattivegasgame.com.pk/teen-patti-vegas-screenshot1.webp",
-      "https://teenpattivegasgame.com.pk/teen-patti-vegas-screenshot2.webp",
-      "https://teenpattivegasgame.com.pk/teen-patti-vegas-screenshot3.webp"
+      "https://teenpattivegasgame.com.pk/teen-patti-vegas-app-interface.webp",
+      "https://teenpattivegasgame.com.pk/teen-patti-vegas-games.webp",
+      "https://teenpattivegasgame.com.pk/teen-patti-vegas.webp"
     ],
     "image": "https://teenpattivegasgame.com.pk/teen-patti-vegas-pakistan-logo.webp",
     "author": {
