@@ -733,7 +733,7 @@ export default function Home() {
         <div className="bg-secondary rounded-xl p-8">
           <h2 className="text-2xl md:text-3xl font-bold mb-6 text-accent">Download TeenPatti Vegas APK Latest Version For Android</h2>
           <ol className="list-decimal pl-5 space-y-3 text-gray-300 mb-8">
-            <li>Open the Official Website — visit the official website using your Android browser.</li>
+            <li>Open the Official Website — visit <a href="https://teenpattivegasgame.com.pk" className="text-accent hover:underline font-semibold" target="_blank" rel="noopener noreferrer">teenpattivegasgame.com.pk</a> using your Android browser.</li>
             <li>Tap Download Button — look for the Download APK button highlighted on the main page. Click on it to start downloading.</li>
             <li>Wait for Download — wait until the APK file fully downloads on your device.</li>
             <li>Check Downloads Folder — once completed, find the APK file saved in the File Manager.</li>
