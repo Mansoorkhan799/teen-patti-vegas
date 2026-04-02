@@ -14,6 +14,10 @@ type BlogPostSchemaProps = {
   breadcrumbOnly?: boolean;
   /** Key summary or first 2-3 paragraphs for AI parsing and articleBody */
   articleBody?: string;
+  /** Approximate word count of the article */
+  wordCount?: number;
+  /** Primary keywords for this article */
+  keywords?: string;
 };
 
 export default function BlogPostSchema({
@@ -22,9 +26,11 @@ export default function BlogPostSchema({
   slug,
   datePublished,
   dateModified,
-  image = `${BASE}/teen-patti-vegas-pakistan-logo.webp`,
+  image = `${BASE}/feature/og-image.webp`,
   breadcrumbOnly = false,
   articleBody,
+  wordCount,
+  keywords,
 }: BlogPostSchemaProps) {
   const url = `${BASE}/blog/${slug}`;
   const breadcrumb = {
@@ -36,26 +42,46 @@ export default function BlogPostSchema({
       { "@type": "ListItem", position: 3, name: title, item: url },
     ],
   };
+
   const article: Record<string, unknown> = {
     "@context": "https://schema.org",
-    "@type": "Article",
+    "@type": "BlogPosting",
     "@id": `${url}#article`,
     headline: title,
     description,
     url,
-    image,
-    author: { "@type": "Organization", name: "Teen Patti Vegas", url: BASE },
+    image: {
+      "@type": "ImageObject",
+      "url": image,
+      "width": 1200,
+      "height": 630,
+    },
+    author: {
+      "@type": "Person",
+      "name": "Teen Patti Vegas Editorial Team",
+      "url": BASE,
+    },
     publisher: {
       "@type": "Organization",
-      name: "Teen Patti Vegas",
-      logo: { "@type": "ImageObject", url: `${BASE}/teen-patti-vegas-pakistan-logo.webp` },
+      "@id": `${BASE}/#organization`,
+      "name": "Teen Patti Vegas",
+      "logo": {
+        "@type": "ImageObject",
+        "url": `${BASE}/teen-patti-vegas-pakistan-logo.webp`,
+        "width": 192,
+        "height": 192,
+      },
     },
     datePublished,
     dateModified: dateModified || datePublished,
     mainEntityOfPage: { "@type": "WebPage", "@id": url },
-    inLanguage: "en-US",
+    inLanguage: "en-PK",
+    isPartOf: { "@id": `${BASE}/#website` },
     ...(articleBody && { articleBody }),
+    ...(wordCount && { wordCount }),
+    ...(keywords && { keywords }),
   };
+
   return (
     <div suppressHydrationWarning style={{ display: "contents" }}>
       <script

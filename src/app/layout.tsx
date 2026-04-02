@@ -137,7 +137,17 @@ export default function RootLayout({
         <link rel="shortcut icon" href="/teen-patti-vegas-pakistan-logo.webp" type="image/webp" />
         <link rel="apple-touch-icon" href="/teen-patti-vegas-pakistan-logo.webp" sizes="180x180" />
         <meta property="og:image" content="https://teenpattivegasgame.com.pk/teen-patti-vegas-pakistan-logo.webp" />
-        
+
+        {/* ── Geo Targeting ── Pakistan-specific ranking signals */}
+        <meta name="geo.region" content="PK" />
+        <meta name="geo.placename" content="Pakistan" />
+        <meta name="geo.position" content="30.3753;69.3451" />
+        <meta name="ICBM" content="30.3753, 69.3451" />
+
+        {/* ── Hreflang ── language + regional signals */}
+        <link rel="alternate" hrefLang="en" href="https://teenpattivegasgame.com.pk/" />
+        <link rel="alternate" hrefLang="x-default" href="https://teenpattivegasgame.com.pk/" />
+
         {/* Preconnect to external domains for faster loading */}
         <link rel="preconnect" href="https://www.googletagmanager.com" crossOrigin="anonymous" />
         <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
@@ -199,6 +209,12 @@ export default function RootLayout({
               "@type": "Organization",
               "@id": "https://teenpattivegasgame.com.pk/#organization",
               "name": "Teen Patti Vegas",
+              "alternateName": [
+                "Teen Patti Vegas Pakistan",
+                "TeenPattiVegas",
+                "3 Patti Vegas",
+                "Teen Patti Vegas Game"
+              ],
               "url": "https://teenpattivegasgame.com.pk",
               "logo": {
                 "@type": "ImageObject",
@@ -207,6 +223,28 @@ export default function RootLayout({
                 "height": 192
               },
               "description": "Teen Patti Vegas is Pakistan's top casino gaming platform, offering Teen Patti, Rummy, Dragon vs Tiger and many other games with real cash rewards.",
+              "areaServed": {
+                "@type": "Country",
+                "name": "Pakistan"
+              },
+              "knowsAbout": [
+                "Teen Patti",
+                "Rummy",
+                "Dragon vs Tiger",
+                "Andar Bahar",
+                "Casino Games",
+                "Online Card Games",
+                "JazzCash Payments",
+                "EasyPaisa Payments",
+                "Mobile Gaming Pakistan"
+              ],
+              "contactPoint": {
+                "@type": "ContactPoint",
+                "email": "support@teenpattivegasgame.com.pk",
+                "contactType": "Customer Support",
+                "areaServed": "PK",
+                "availableLanguage": ["English", "Urdu"]
+              },
               "sameAs": [
                 "https://www.facebook.com/share/16zhtoNKJq/?mibextid=wwXIfr",
                 "https://www.pinterest.com/3pattivegaspk/"
