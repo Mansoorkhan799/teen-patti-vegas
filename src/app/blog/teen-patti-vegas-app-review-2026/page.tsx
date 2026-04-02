@@ -3,8 +3,8 @@ import Link from 'next/link';
 import BlogPostSchema from '@/components/BlogPostSchema';
 
 export const metadata: Metadata = {
-  title: 'Teen Patti Vegas App Review 2026: An Honest Look at Features, Games & Payouts',
-  description: 'Our in-depth Teen Patti Vegas review for 2026 covers gameplay, bonus structure, payout times, VIP perks, and real user experience. Find out if this app suits Pakistani players.',
+  title: 'Teen Patti Vegas App Review 2026: Features, Games & Payouts',
+  description: 'In-depth Teen Patti Vegas review 2026: gameplay, bonuses, payout speed, VIP perks & real user experience. Is this app worth it for Pakistani players?',
   keywords: [
     'Teen Patti Vegas review',
     'Teen Patti Vegas app review',
@@ -18,9 +18,24 @@ export const metadata: Metadata = {
     'Teen Patti Vegas Pakistan review'
   ],
   openGraph: {
-    title: 'Teen Patti Vegas App Review 2026: An Honest Look at Features, Games & Payouts',
-    description: 'An honest, in-depth look at Teen Patti Vegas for 2026 — games, bonuses, withdrawal speed, and player experience in Pakistan.',
+    title: 'Teen Patti Vegas App Review 2026: Features, Games & Payouts',
+    description: 'In-depth Teen Patti Vegas review 2026 — games, bonuses, withdrawal speed & real player experience in Pakistan.',
     type: 'article',
+    url: "https://teenpattivegasgame.com.pk/blog/teen-patti-vegas-app-review-2026",
+    images: [
+      {
+        url: "https://teenpattivegasgame.com.pk/feature/og-image.webp",
+        width: 1200,
+        height: 630,
+        alt: "Teen Patti Vegas App Review 2026",
+      }
+    ],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Teen Patti Vegas App Review 2026: Features, Games & Payouts',
+    description: 'In-depth Teen Patti Vegas review 2026 — games, bonuses, withdrawal speed & real player experience in Pakistan.',
+    images: ["https://teenpattivegasgame.com.pk/feature/og-image.webp"],
   },
   alternates: { canonical: "https://teenpattivegasgame.com.pk/blog/teen-patti-vegas-app-review-2026" },
 };

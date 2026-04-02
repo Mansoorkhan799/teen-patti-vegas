@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     default: "Teen Patti Vegas Pakistan v1.3 Free Download Official APK",
     template: "%s | Teen Patti Vegas"
   },
-  description: "Teen Patti Vegas 2026 - Pakistan's #1 casino game platform. Download Teen Patti Vegas APK, play Teen Patti, Rummy, Dragon vs Tiger & win real cash. Fast withdrawals via JazzCash & EasyPaisa. Join 600K+ players!",
+  description: "Download Teen Patti Vegas APK — Pakistan's #1 casino platform. Play Teen Patti, Rummy & Dragon vs Tiger. Win real cash via JazzCash & EasyPaisa. Join 600K+ players!",
   keywords: [
     "Teen Patti Vegas",
     "teen patti vegas game",
@@ -84,7 +84,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: "Teen Patti Vegas Pakistan v1.3 Free Download Official APK",
-    description: "Teen Patti Vegas 2026 - Pakistan's #1 casino game platform. Join 600K+ players. Play Teen Patti, Rummy & more. Earn real money with JazzCash & EasyPaisa. Download now!",
+    description: "Pakistan's #1 Teen Patti Vegas platform. Join 600K+ players. Play Teen Patti, Rummy & more. Earn real money via JazzCash & EasyPaisa. Download now!",
     url: "https://teenpattivegasgame.com.pk",
     siteName: "Teen Patti Vegas",
     locale: "en_US",
@@ -107,7 +107,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "Teen Patti Vegas Pakistan v1.3 Free Download Official APK",
-    description: "Teen Patti Vegas 2026 - Pakistan's #1 casino game platform. Join 600K+ players. Play Teen Patti, Rummy & more. Earn real money with JazzCash & EasyPaisa. Download now!",
+    description: "Pakistan's #1 Teen Patti Vegas platform. Join 600K+ players. Play Teen Patti, Rummy & more. Earn real money via JazzCash & EasyPaisa. Download now!",
     creator: "@teenpattivegas",
     images: [
       {

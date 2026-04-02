@@ -2,8 +2,8 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Teen Patti Vegas Blog - Guides, Tips, Reviews & Tutorials 2026',
-  description: 'Complete Teen Patti Vegas blog 2026: App reviews, comparison guides, beginner tutorials, tips & tricks, bonuses guide, safety tips, and responsible gaming. Everything you need to know!',
+  title: 'Teen Patti Vegas Blog – Guides, Tips & Reviews 2026',
+  description: 'Expert guides, tips, app reviews & tutorials for Teen Patti Vegas 2026. Learn to download, play, earn real cash, and maximize bonuses in Pakistan.',
   keywords: [
     'Teen Patti Vegas blog',
     'Teen Patti Vegas guide',
@@ -28,6 +28,27 @@ export const metadata: Metadata = {
   },
   alternates: {
     canonical: "https://teenpattivegasgame.com.pk/blog",
+  },
+  openGraph: {
+    title: 'Teen Patti Vegas Blog – Guides, Tips & Reviews 2026',
+    description: 'Expert guides, tips, app reviews & tutorials for Teen Patti Vegas 2026. Learn to download, play, earn real cash, and maximize bonuses in Pakistan.',
+    url: "https://teenpattivegasgame.com.pk/blog",
+    siteName: "Teen Patti Vegas",
+    type: "website",
+    images: [
+      {
+        url: "https://teenpattivegasgame.com.pk/feature/og-image.webp",
+        width: 1200,
+        height: 630,
+        alt: "Teen Patti Vegas Blog - Guides, Tips & Reviews",
+      }
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: 'Teen Patti Vegas Blog – Guides, Tips & Reviews 2026',
+    description: 'Expert guides, tips, app reviews & tutorials for Teen Patti Vegas 2026. Learn to download, play, earn real cash, and maximize bonuses in Pakistan.',
+    images: ["https://teenpattivegasgame.com.pk/feature/og-image.webp"],
   },
 };
 

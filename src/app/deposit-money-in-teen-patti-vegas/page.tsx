@@ -3,20 +3,29 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: 'How to Deposit Money in Teen Patti Vegas? | Quick & Safe Payment Guide 2026',
+  title: 'How to Deposit Money in Teen Patti Vegas | JazzCash Guide',
   description: 'Learn how to deposit money in Teen Patti Vegas using JazzCash and EasyPaisa. Follow our step-by-step guide for quick, safe, and secure deposits.',
   keywords: 'deposit money teen patti vegas, teen patti vegas payment methods, jazzcash deposit, easypaisa deposit, add funds teen patti vegas, teen patti vegas recharge',
   openGraph: {
-    title: 'How to Deposit Money in Teen Patti Vegas? | Quick & Safe Payment Guide',
+    title: 'How to Deposit Money in Teen Patti Vegas | JazzCash Guide',
     description: 'Step-by-step guide to deposit money in Teen Patti Vegas using JazzCash and EasyPaisa. Quick, safe, and secure payment methods.',
     url: 'https://teenpattivegasgame.com.pk/deposit-money-in-teen-patti-vegas',
     siteName: 'Teen Patti Vegas',
     type: 'article',
+    images: [
+      {
+        url: 'https://teenpattivegasgame.com.pk/feature/og-image.webp',
+        width: 1200,
+        height: 630,
+        alt: 'How to Deposit Money in Teen Patti Vegas',
+      }
+    ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'How to Deposit Money in Teen Patti Vegas?',
-    description: 'Learn how to deposit money in Teen Patti Vegas using JazzCash and EasyPaisa with our complete guide.',
+    title: 'How to Deposit Money in Teen Patti Vegas | JazzCash Guide',
+    description: 'Step-by-step guide to deposit money in Teen Patti Vegas using JazzCash and EasyPaisa. Quick, safe, and secure.',
+    images: ['https://teenpattivegasgame.com.pk/feature/og-image.webp'],
   },
   alternates: {
     canonical: 'https://teenpattivegasgame.com.pk/deposit-money-in-teen-patti-vegas',
@@ -167,7 +176,7 @@ export default function DepositMoneyPage() {
                   <div className="flex-1">
                     <h3 className="text-2xl font-bold text-white mb-3">Approve Payment</h3>
                     <p className="text-gray-300 leading-relaxed">
-                      After clicking on the submit button, you will receive a payment request on your selected account. Log in to your account and approve the payment request that you have received from 3Teen Patti Vegas.
+                      After clicking on the submit button, you will receive a payment request on your selected account. Log in to your account and approve the payment request that you have received from Teen Patti Vegas.
                     </p>
                   </div>
                 </div>
@@ -182,7 +191,7 @@ export default function DepositMoneyPage() {
                   <div className="flex-1">
                     <h3 className="text-2xl font-bold text-white mb-3">Wait for Complete Payment</h3>
                     <p className="text-gray-300 leading-relaxed">
-                      After approving the payment request, a deposit will be added to your 3Patti Teen Patti Vegas account instantly. Sometimes it can take longer due to payment delays or network issues. When you receive payment, you can use it to play games without any hurdles.
+                      After approving the payment request, a deposit will be added to your Teen Patti Vegas account instantly. Sometimes it can take longer due to payment delays or network issues. When you receive payment, you can use it to play games without any hurdles.
                     </p>
                   </div>
                 </div>

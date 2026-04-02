@@ -4,7 +4,7 @@ import Link from 'next/link';
 import Script from 'next/script';
 
 export const metadata: Metadata = {
-  title: 'About Teen Patti Vegas - Pakistan\'s Premier Card Gaming Platform',
+  title: 'About Teen Patti Vegas – Pakistan\'s #1 Card Gaming Platform',
   description: 'Learn about Teen Patti Vegas, our history, mission, and vision for creating the best card gaming platform in Pakistan with Teen Patti, Rummy and more.',
   keywords: ['Teen Patti Vegas about', 'about us', 'gaming company Pakistan', 'Teen Patti Vegas history', 'card gaming platform', 'Teen Patti', '3 Patti'],
   robots: {
@@ -21,7 +21,7 @@ export const metadata: Metadata = {
     canonical: "https://teenpattivegasgame.com.pk/about-us",
   },
   openGraph: {
-    title: 'About Teen Patti Vegas - Pakistan\'s Premier Card Gaming Platform',
+    title: 'About Teen Patti Vegas – Pakistan\'s #1 Card Gaming Platform',
     description: 'Learn about Teen Patti Vegas, our history, mission, and vision for creating the best card gaming platform in Pakistan with real cash rewards.',
     url: "https://teenpattivegasgame.com.pk/about-us",
     siteName: "Teen Patti Vegas",
@@ -29,18 +29,18 @@ export const metadata: Metadata = {
     type: "website",
     images: [
       {
-        url: "https://teenpattivegasgame.com.pk/teen-patti-vegas-pakistan-logo.webp",
+        url: "https://teenpattivegasgame.com.pk/feature/og-image.webp",
         width: 1200,
         height: 630,
-        alt: "About Teen Patti Vegas - Premier Card Gaming Platform",
+        alt: "About Teen Patti Vegas – Pakistan's #1 Card Gaming Platform",
       }
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: 'About Teen Patti Vegas - Pakistan\'s Premier Card Gaming Platform',
+    title: 'About Teen Patti Vegas – Pakistan\'s #1 Card Gaming Platform',
     description: 'Learn about Teen Patti Vegas, our history, mission, and vision for creating the best card gaming platform in Pakistan with real cash rewards.',
-    images: ["https://teenpattivegasgame.com.pk/teen-patti-vegas-pakistan-logo.webp"],
+    images: ["https://teenpattivegasgame.com.pk/feature/og-image.webp"],
   },
 };
 

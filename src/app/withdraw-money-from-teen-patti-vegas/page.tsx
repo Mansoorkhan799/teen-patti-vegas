@@ -3,20 +3,29 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: 'How to Withdraw Money from Teen Patti Vegas? | Fast & Secure Withdrawal Guide 2026',
-  description: 'Learn how to withdraw money from Teen Patti Vegas using JazzCash, EasyPaisa, and Bank Transfer. Follow our step-by-step guide for quick and secure withdrawals.',
+  title: 'How to Withdraw Money from Teen Patti Vegas | Full Guide',
+  description: 'Learn how to withdraw money from Teen Patti Vegas using JazzCash, EasyPaisa & Bank Card. Step-by-step guide for fast, secure withdrawals in Pakistan.',
   keywords: 'withdraw money teen patti vegas, teen patti vegas withdrawal, jazzcash withdrawal, easypaisa withdrawal, cash out teen patti vegas, teen patti vegas payout',
   openGraph: {
-    title: 'How to Withdraw Money from Teen Patti Vegas? | Fast & Secure Withdrawal Guide',
-    description: 'Step-by-step guide to withdraw money from Teen Patti Vegas using JazzCash, EasyPaisa, and Bank Transfer. Quick and secure withdrawals.',
+    title: 'How to Withdraw Money from Teen Patti Vegas | Full Guide',
+    description: 'Step-by-step guide to withdraw money from Teen Patti Vegas using JazzCash, EasyPaisa & Bank Card. Fast and secure withdrawals.',
     url: 'https://teenpattivegasgame.com.pk/withdraw-money-from-teen-patti-vegas',
     siteName: 'Teen Patti Vegas',
     type: 'article',
+    images: [
+      {
+        url: 'https://teenpattivegasgame.com.pk/feature/og-image.webp',
+        width: 1200,
+        height: 630,
+        alt: 'How to Withdraw Money from Teen Patti Vegas',
+      }
+    ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'How to Withdraw Money from Teen Patti Vegas?',
-    description: 'Learn how to withdraw money from Teen Patti Vegas using our complete withdrawal guide.',
+    title: 'How to Withdraw Money from Teen Patti Vegas | Full Guide',
+    description: 'Step-by-step guide to withdraw money from Teen Patti Vegas using JazzCash, EasyPaisa & Bank Card. Fast and secure.',
+    images: ['https://teenpattivegasgame.com.pk/feature/og-image.webp'],
   },
   alternates: {
     canonical: 'https://teenpattivegasgame.com.pk/withdraw-money-from-teen-patti-vegas',
@@ -277,7 +286,7 @@ export default function WithdrawMoneyPage() {
                 Cashing out funds from Teen Patti Vegas is very easy if you know the proper steps. Re-check your account information and select a real payment method. You can enjoy your earnings without any trouble if you follow the whole process correctly.
               </p>
               <p className="text-lg text-gray-300 leading-relaxed">
-                Follow all rules and withdrawal limits to avoid problems. It provides safe, quick withdrawals to all its users. You can securely collect your winnings and enjoy your favorite games in 3Teen Patti Vegas by following these simple steps.
+                Follow all rules and withdrawal limits to avoid problems. It provides safe, quick withdrawals to all its users. You can securely collect your winnings and enjoy your favorite games in Teen Patti Vegas by following these simple steps.
               </p>
             </div>
           </div>

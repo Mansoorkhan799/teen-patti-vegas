@@ -11,6 +11,20 @@ export const metadata: Metadata = {
     url: 'https://teenpattivegasgame.com.pk/privacy',
     siteName: 'Teen Patti Vegas',
     type: 'website',
+    images: [
+      {
+        url: 'https://teenpattivegasgame.com.pk/feature/og-image.webp',
+        width: 1200,
+        height: 630,
+        alt: 'Privacy Policy - Teen Patti Vegas',
+      }
+    ],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Privacy Policy - Teen Patti Vegas',
+    description: 'Learn how Teen Patti Vegas protects your personal information and data.',
+    images: ['https://teenpattivegasgame.com.pk/feature/og-image.webp'],
   },
   alternates: {
     canonical: 'https://teenpattivegasgame.com.pk/privacy',

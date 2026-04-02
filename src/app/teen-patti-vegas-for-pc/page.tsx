@@ -4,7 +4,7 @@ import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: 'Teen Patti Vegas for PC Download Latest Version Free 2026',
-  description: 'Download Teen Patti Vegas for PC using Android Emulator. Play Teen Patti, Rummy, Dragon Tiger on bigger screen. Better performance and smooth gameplay on Windows.',
+  description: 'Download Teen Patti Vegas for PC via Android emulator. Play Teen Patti, Rummy & Dragon Tiger on Windows with better performance and smooth gameplay.',
   keywords: [
     'Teen Patti Vegas for PC',
     'Teen Patti Vegas PC download',
@@ -29,11 +29,25 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: 'Teen Patti Vegas for PC Download Latest Version Free 2026',
-    description: 'Download Teen Patti Vegas for PC using Android Emulator. Play on bigger screen with better performance.',
+    description: 'Download Teen Patti Vegas for PC via Android emulator. Play Teen Patti, Rummy & Dragon Tiger on Windows with better performance.',
     url: "https://teenpattivegasgame.com.pk/teen-patti-vegas-for-pc",
     siteName: "Teen Patti Vegas",
     locale: "en_US",
     type: "website",
+    images: [
+      {
+        url: "https://teenpattivegasgame.com.pk/feature/og-image.webp",
+        width: 1200,
+        height: 630,
+        alt: "Teen Patti Vegas for PC - Download via Android Emulator",
+      }
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Teen Patti Vegas for PC Download Latest Version Free 2026",
+    description: "Download Teen Patti Vegas for PC via Android emulator. Play Teen Patti, Rummy & Dragon Tiger on Windows.",
+    images: ["https://teenpattivegasgame.com.pk/feature/og-image.webp"],
   },
 };
 

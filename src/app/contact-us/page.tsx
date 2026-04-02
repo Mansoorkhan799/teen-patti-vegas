@@ -11,11 +11,20 @@ export const metadata: Metadata = {
     url: 'https://teenpattivegasgame.com.pk/contact-us',
     siteName: 'Teen Patti Vegas',
     type: 'website',
+    images: [
+      {
+        url: 'https://teenpattivegasgame.com.pk/feature/og-image.webp',
+        width: 1200,
+        height: 630,
+        alt: 'Contact Teen Patti Vegas Support',
+      }
+    ],
   },
   twitter: {
-    card: 'summary',
+    card: 'summary_large_image',
     title: 'Contact Us - Teen Patti Vegas',
     description: 'Get in touch with Teen Patti Vegas support team for any queries or assistance.',
+    images: ['https://teenpattivegasgame.com.pk/feature/og-image.webp'],
   },
   alternates: {
     canonical: 'https://teenpattivegasgame.com.pk/contact-us',

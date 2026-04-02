@@ -3,8 +3,8 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: 'Download Teen Patti Vegas Game Free APK For Android | Latest Version 2026',
-  description: 'Download Teen Patti Vegas APK free for Android. Play Teen Patti, Rummy, Dragon Tiger & more. Earn real cash with JazzCash & EasyPaisa. Latest version 1.3(1) - 47.21MB.',
+  title: 'Download Teen Patti Vegas APK Free For Android 2026',
+  description: 'Download Teen Patti Vegas APK free for Android. Play Teen Patti, Rummy & Dragon Tiger. Earn real cash via JazzCash & EasyPaisa. Latest version 1.3 — 47MB.',
   keywords: [
     'Download Teen Patti Vegas',
     'Teen Patti Vegas APK download',
@@ -28,26 +28,26 @@ export const metadata: Metadata = {
     canonical: "https://teenpattivegasgame.com.pk/download-teen-patti-vegas",
   },
   openGraph: {
-    title: 'Download Teen Patti Vegas Game Free APK For Android',
-    description: 'Download Teen Patti Vegas APK free. Play Teen Patti, Rummy & more. Earn real cash with secure payments. 600K+ downloads!',
+    title: 'Download Teen Patti Vegas APK Free For Android 2026',
+    description: 'Download Teen Patti Vegas APK free. Play Teen Patti, Rummy & more. Earn real cash via JazzCash & EasyPaisa. 600K+ downloads!',
     url: "https://teenpattivegasgame.com.pk/download-teen-patti-vegas",
     siteName: "Teen Patti Vegas",
     locale: "en_US",
     type: "website",
     images: [
       {
-        url: "https://teenpattivegasgame.com.pk/teen-patti-vegas-pakistan-logo.webp",
+        url: "https://teenpattivegasgame.com.pk/feature/og-image.webp",
         width: 1200,
         height: 630,
-        alt: "Download Teen Patti Vegas APK",
+        alt: "Download Teen Patti Vegas APK Free For Android",
       }
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: 'Download Teen Patti Vegas Game Free APK For Android',
-    description: 'Download Teen Patti Vegas APK free. Play Teen Patti, Rummy & more. Earn real cash with secure payments. 600K+ downloads!',
-    images: ["https://teenpattivegasgame.com.pk/teen-patti-vegas-pakistan-logo.webp"],
+    title: 'Download Teen Patti Vegas APK Free For Android 2026',
+    description: 'Download Teen Patti Vegas APK free. Play Teen Patti, Rummy & more. Earn real cash via JazzCash & EasyPaisa. 600K+ downloads!',
+    images: ["https://teenpattivegasgame.com.pk/feature/og-image.webp"],
   },
 };
 
