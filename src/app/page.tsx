@@ -1,53 +1,62 @@
 import Image from "next/image";
 import Link from 'next/link';
-import Script from 'next/script';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: {
-    default: "Teen Patti Vegas Pakistan v1.3 Free Download Official APK",
-    template: "%s | Teen Patti Vegas"
-  },
-  description: "Download Teen Patti Vegas APK — Pakistan's #1 casino platform. Play Teen Patti, Rummy & Dragon vs Tiger. Win real cash via JazzCash & EasyPaisa. Join 600K+ players!",
+  title: "Teen Patti Vegas | 3 Patti Vegas Pakistan APK Download 2026 - Real Money",
+  description: "Download Teen Patti Vegas APK latest version 2026 — Pakistan's #1 real money casino app. Play 35+ games: Teen Patti, Rummy, Dragon vs Tiger, Ludo & more. Earn real cash via JazzCash & EasyPaisa. Get PKR 100 welcome bonus. Works on 2G!",
   keywords: [
     "Teen Patti Vegas",
-    "teen patti vegas game",
+    "3 Patti Vegas",
+    "3patti vegas",
     "teen patti vegas download",
     "teen patti vegas app",
     "teen patti vegas apk",
     "teen patti vegas pakistan",
-    "3 Patti Vegas",
     "teenpatti vegas",
+    "teen patti vegas game",
     "teen patti vegas 2026",
+    "3 patti vegas download",
+    "3 patti vegas apk",
+    "teen patti vegas real money",
+    "teen patti vegas latest version",
+    "teen patti vegas star",
+    "ludo vegas",
     "Pakistan casino games",
+    "casino app pakistan",
     "Teen Patti game",
     "online rummy game",
     "earn money playing cards",
     "Android gaming app 2026",
     "JazzCash gaming",
     "EasyPaisa gaming",
+    "easypaisa game",
+    "jazzcash game",
     "real money games Pakistan",
     "Dragon vs Tiger",
-    "best earning app Pakistan"
+    "best earning app Pakistan",
+    "teen patti vegas apk download",
+    "pkr 100 bonus",
+    "welcome bonus pkr"
   ],
   alternates: {
-    canonical: "https://teenpattivegasgame.com.pk/",
+    canonical: "https://teenpattivegasgame.com.pk",
   },
   openGraph: {
-    title: 'Teen Patti Vegas Pakistan v1.3 Free Download Official APK',
-    description: "Pakistan's #1 Teen Patti Vegas platform. Join 600K+ players. Play Teen Patti, Rummy & more. Earn real money via JazzCash & EasyPaisa. Download now!",
+    title: 'Teen Patti Vegas | 3 Patti Vegas Pakistan - Download APK & Earn Real Money',
+    description: "Pakistan's #1 Teen Patti Vegas platform. Join 600K+ players. Play 35+ games — Teen Patti, Rummy, Dragon vs Tiger & more. Earn real money via JazzCash & EasyPaisa. Get PKR 100 welcome bonus!",
     images: [
-      {
-        url: 'https://teenpattivegasgame.com.pk/teen-patti-vegas.webp',
-        width: 512,
-        height: 512,
-        alt: 'Teen Patti Vegas - Official App Icon | Pakistan\'s #1 Casino Game - Download APK'
-      },
       {
         url: 'https://teenpattivegasgame.com.pk/feature/og-image.webp',
         width: 1200,
         height: 630,
-        alt: 'Teen Patti Vegas - Premier Casino Gaming Platform'
+        alt: 'Teen Patti Vegas - 3 Patti Vegas Pakistan Real Money Casino App'
+      },
+      {
+        url: 'https://teenpattivegasgame.com.pk/teen-patti-vegas.webp',
+        width: 512,
+        height: 512,
+        alt: 'Teen Patti Vegas - 3 Patti Vegas Official App Icon'
       },
       {
         url: 'https://teenpattivegasgame.com.pk/feature/og-image-square.webp',
@@ -60,9 +69,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Teen Patti Vegas Pakistan v1.3 Free Download Official APK',
-    description: "Pakistan's #1 Teen Patti Vegas platform. Join 600K+ players. Play Teen Patti, Rummy & more. Earn real money via JazzCash & EasyPaisa. Download now!",
-    images: ['https://teenpattivegasgame.com.pk/teen-patti-vegas.webp', 'https://teenpattivegasgame.com.pk/feature/og-image.webp']
+    title: 'Teen Patti Vegas | 3 Patti Vegas Pakistan - Real Money App',
+    description: "Pakistan's #1 Teen Patti Vegas platform. Play 35+ games, earn real cash via JazzCash & EasyPaisa. Get PKR 100 welcome bonus!",
+    images: ['https://teenpattivegasgame.com.pk/feature/og-image.webp', 'https://teenpattivegasgame.com.pk/teen-patti-vegas.webp']
   }
 };
 
@@ -80,9 +89,10 @@ export default function Home() {
       {
         "@type": "WebSite",
         "@id": "https://teenpattivegasgame.com.pk/#website",
-        "url": "https://teenpattivegasgame.com.pk/",
+        "url": "https://teenpattivegasgame.com.pk",
         "name": "Teen Patti Vegas",
-        "description": "Pakistan's top casino game platform with Teen Patti, Rummy, Dragon Tiger and more",
+        "alternateName": ["3 Patti Vegas", "TeenPatti Vegas", "3patti Vegas"],
+        "description": "Pakistan's #1 real money casino app — play Teen Patti, Rummy, Dragon vs Tiger, Ludo & 35+ games. Withdraw via JazzCash & EasyPaisa.",
         "inLanguage": "en-US",
         "publisher": {
           "@id": "https://teenpattivegasgame.com.pk/#organization"
@@ -92,31 +102,37 @@ export default function Home() {
         "@type": "Organization",
         "@id": "https://teenpattivegasgame.com.pk/#organization",
         "name": "Teen Patti Vegas",
-        "url": "https://teenpattivegasgame.com.pk/",
+        "alternateName": ["3 Patti Vegas", "Teen Patti Vegas Pakistan", "3patti Vegas"],
+        "url": "https://teenpattivegasgame.com.pk",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://teenpattivegasgame.com.pk/teen-patti-vegas.webp",
-          "width": 512,
-          "height": 512
+          "url": "https://teenpattivegasgame.com.pk/teen-patti-vegas-pakistan-logo.webp",
+          "width": 192,
+          "height": 192
         },
         "sameAs": [
           "https://www.facebook.com/share/16zhtoNKJq/?mibextid=wwXIfr",
           "https://www.pinterest.com/3pattivegaspk/"
         ],
+        "areaServed": {
+          "@type": "Country",
+          "name": "Pakistan"
+        },
         "contactPoint": {
           "@type": "ContactPoint",
           "email": "support@teenpattivegasgame.com.pk",
           "contactType": "Customer Support",
-          "areaServed": "PK"
+          "areaServed": "PK",
+          "availableLanguage": ["English", "Urdu"]
         }
       },
       {
         "@type": "SoftwareApplication",
         "name": "Teen Patti Vegas",
+        "alternateName": "3 Patti Vegas",
         "operatingSystem": "Android 5.0+",
         "applicationCategory": "GameApplication",
         "image": "https://teenpattivegasgame.com.pk/teen-patti-vegas.webp",
-        "logo": "https://teenpattivegasgame.com.pk/teen-patti-vegas.webp",
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "4.5",
@@ -128,9 +144,9 @@ export default function Home() {
           "priceCurrency": "PKR"
         },
         "downloadUrl": "https://teenpattivegasgame.com.pk/download-teen-patti-vegas",
-        "softwareVersion": "1.3(1)",
+        "softwareVersion": "3.03",
         "fileSize": "47.21MB",
-        "description": "Play Teen Patti, Rummy, Dragon Tiger and other casino games. Earn real money with JazzCash & EasyPaisa withdrawals.",
+        "description": "Teen Patti Vegas (3 Patti Vegas) is Pakistan's top casino app. Play 35+ games including Teen Patti, Rummy, Dragon vs Tiger, Ludo, Andar Bahar & more. Earn real money with instant withdrawals via JazzCash & EasyPaisa. Works even on 2G internet.",
         "screenshot": [
           "https://teenpattivegasgame.com.pk/teen-patti-vegas.webp",
           "https://teenpattivegasgame.com.pk/teen-patti-vegas-app-interface.webp",
@@ -140,17 +156,8 @@ export default function Home() {
           "https://teenpattivegasgame.com.pk/teen-patti-vegas-refer-and-earn.webp"
         ],
         "author": {
-          "@type": "Organization",
-          "name": "Teen Patti Vegas"
+          "@id": "https://teenpattivegasgame.com.pk/#organization"
         }
-      },
-      {
-        "@type": "ImageObject",
-        "@id": "https://teenpattivegasgame.com.pk/#teenspattivegas-hero-image",
-        "contentUrl": "https://teenpattivegasgame.com.pk/teen-patti-vegas.webp",
-        "url": "https://teenpattivegasgame.com.pk/teen-patti-vegas.webp",
-        "name": "Teen Patti Vegas - Official App Icon",
-        "description": "Teen Patti Vegas Pakistan v1.3 - Official app icon. Download the #1 casino game for Android. Play Teen Patti, Rummy, Dragon vs Tiger and earn real money with JazzCash and EasyPaisa."
       },
       {
         "@type": "FAQPage",
@@ -160,23 +167,15 @@ export default function Home() {
             "name": "What is Teen Patti Vegas?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Teen Patti Vegas is Pakistan's top online casino game platform where you can play Teen Patti, Rummy, Dragon vs Tiger, and many other exciting casino games. Teen Patti Vegas offers real cash rewards with fast withdrawals via JazzCash and EasyPaisa."
+              "text": "Teen Patti Vegas, also known as 3 Patti Vegas, is Pakistan's top online casino game platform where you can play 35+ games including Teen Patti, Rummy, Dragon vs Tiger, Ludo, Andar Bahar, Zoo Roulette, Mines, and more. It offers real cash rewards with instant withdrawals via JazzCash and EasyPaisa. The app works even on 2G internet and is available for Android devices."
             }
           },
           {
             "@type": "Question",
-            "name": "How to download Teen Patti Vegas?",
+            "name": "How to download Teen Patti Vegas APK for Android?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "You can download Teen Patti Vegas APK from the official website teenpattivegasgame.com.pk. The app is available for Android devices and can be installed directly by downloading the APK file."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "How to download Teen Patti Vegas app for Android?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "To download the Teen Patti Vegas app for Android, visit teenpattivegasgame.com.pk, click the download button, enable Unknown Sources in your settings, and install the APK file. The Teen Patti Vegas game is free to download and works on Android 5.0 or higher."
+              "text": "To download Teen Patti Vegas APK for Android: 1) Visit teenpattivegasgame.com.pk on your mobile browser, 2) Tap the Download APK button, 3) Enable 'Unknown Sources' in Settings > Security, 4) Open the downloaded APK file and tap Install. The app is free to download (47.21MB) and works on Android 5.0 or higher."
             }
           },
           {
@@ -184,31 +183,7 @@ export default function Home() {
             "name": "Is Teen Patti Vegas safe and legal?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Yes, Teen Patti Vegas is safe to use with secure data protection. The platform uses encrypted transactions and protects user privacy. However, legality depends on local laws, so always check your region's regulations."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "How to earn money on Teen Patti Vegas?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "You can earn money on Teen Patti Vegas by playing games like Teen Patti, Rummy, and Dragon vs Tiger. The platform offers welcome bonuses, daily rewards, referral commissions of 800-1000 PKR per player, and deposit bonuses to help you start earning."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "How to withdraw money from Teen Patti Vegas?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "You can withdraw money from Teen Patti Vegas using JazzCash or EasyPaisa. Go to the Withdraw section, enter the amount, choose your payment method, fill in your details, and tap Confirm. Withdrawals are processed within minutes."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "What games are available on Teen Patti Vegas?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Teen Patti Vegas offers 35+ games including Teen Patti, Classic Rummy, Dragon vs Tiger, Andar Bahar, Ludo, Zoo Roulette, Mines, Domino, 7 UP Down, and various slot games. All games are available 24/7 with real cash prizes."
+              "text": "Yes, Teen Patti Vegas is safe to use. The platform uses encrypted transactions, secure data protection, and protects user privacy. It follows online entertainment regulations. However, legality varies by region, so always check your local laws regarding online gaming."
             }
           },
           {
@@ -216,7 +191,39 @@ export default function Home() {
             "name": "What bonuses does Teen Patti Vegas offer?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Teen Patti Vegas offers welcome bonuses for new users (100% match), daily login bonuses, deposit bonuses, referral bonuses of 800-1000 PKR per player, recharge rebates up to 30%, and VIP transfer bonuses."
+              "text": "Teen Patti Vegas offers multiple bonuses: PKR 100 welcome bonus for new players, 100% first deposit match bonus (up to PKR 100,000), daily login bonuses that increase with consecutive logins, referral bonuses of PKR 800-1000 per valid referral, recharge rebates up to 30%, Lucky Draw and Spin rewards, Level-Up bonuses, and VIP membership perks for depositing PKR 1000+."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How to earn money on Teen Patti Vegas?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "You can earn money on Teen Patti Vegas by: 1) Playing games like Teen Patti, Rummy, Dragon vs Tiger, and winning cash prizes, 2) Referring friends to earn PKR 800-1000 per valid referral plus up to 30% commission, 3) Collecting daily login bonuses and spin rewards, 4) Participating in tournaments and special events, 5) Taking advantage of deposit match bonuses and recharge rebates."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How to withdraw money from Teen Patti Vegas?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "To withdraw money from Teen Patti Vegas: 1) Open the app and go to the Withdraw section, 2) Tap '+wallet' and enter your account name, account number, and 6-digit password, 3) Enter the withdrawal amount, 4) Choose EasyPaisa, JazzCash, or Bank Card, 5) Tap Confirm. Withdrawals are processed within minutes directly to your account."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What games are available on Teen Patti Vegas?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Teen Patti Vegas offers 35+ games across three categories — Multiplayer, Skill, and Slots. Games include: Teen Patti, Teen Patti 20-20, Rummy, 10 Cards, Poker, Best of Five, Dragon vs Tiger, Andar Bahar, Ludo, Zoo Roulette, Roulette, Car Roulette, Mines, 7 UP Down, Baccarat, Black Jack, Crash, Rock Paper Scissors, Fishing Rush, Sweet Bonanza, 777 Bingo, God of Fortune, Fruit Line, Direction Bounty, One of Three, and more. All games are available 24/7."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is there a mod version of Teen Patti Vegas available?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No, there is no mod APK version of Teen Patti Vegas available. Always download the official APK from teenpattivegasgame.com.pk to ensure security and avoid risks. Mod versions from unofficial sources may contain malware or compromise your account data."
             }
           }
         ]
@@ -226,11 +233,9 @@ export default function Home() {
 
   return (
     <>
-      {/* Schema.org JSON-LD */}
-      <Script
-        id="homepage-schema"
+      {/* Schema.org JSON-LD — rendered inline for crawler visibility */}
+      <script
         type="application/ld+json"
-        strategy="afterInteractive"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaData) }}
       />
 
@@ -243,13 +248,13 @@ export default function Home() {
                 <span className="text-white">Teen Patti Vegas</span>
               </h1>
               <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold">
-                <span className="text-[#FFA500]">Game Download Latest Version</span>{' '}
+                <span className="text-[#FFA500]">Download Latest Version APK</span>{' '}
                 <span className="text-white">For Android 2026</span>
               </h2>
             </div>
             
             <p className="text-lg text-gray-300 leading-relaxed" style={{ contain: 'layout style', minHeight: '120px', display: 'block' }}>
-              Teen Patti Vegas, also known as 3 Patti Vegas, is one of the best casino games where players can play various games and earn real money. It is mostly played in Pakistan, and it works efficiently on Android devices. You can play more than 35 games and place bets on them to earn real cash.
+              Download the latest version of <strong>Teen Patti Vegas</strong> APK for Android and dive into Pakistan&apos;s #1 real money casino platform. Also known as <strong>3 Patti Vegas</strong>, this app lets you play 35+ exciting games — including Teen Patti, Rummy, Dragon vs Tiger, Ludo, Andar Bahar, and more. Whether you&apos;re in Punjab, Islamabad, Azad Kashmir, Gilgit-Baltistan, or anywhere in Pakistan, you can enjoy smooth gameplay even on a 2G internet connection. Get a <strong>PKR 100 welcome bonus</strong> on signup and start earning real cash today!
             </p>
 
             {/* Download Button */}
@@ -339,26 +344,26 @@ export default function Home() {
 
       {/* App Specifications Table */}
       <section className="py-12 px-4 md:px-8 max-w-7xl mx-auto" id="download">
-        <h2 className="text-2xl md:text-3xl font-bold mb-8 text-[#FFA500]">Download Information</h2>
+        <h2 className="text-2xl md:text-3xl font-bold mb-8 text-[#FFA500]">Teen Patti Vegas APK Download Information</h2>
         <div className="overflow-hidden rounded-2xl shadow-2xl border border-gray-800">
           <div className="overflow-x-auto">
             <table className="min-w-full divide-y divide-gray-800">
               <tbody className="divide-y divide-gray-800">
                 <tr className="bg-[#0a1029]/50">
-                  <td className="py-4 px-6 text-left font-medium text-white">App Name</td>
-                  <td className="py-4 px-6 text-left text-white">Teen Patti Vegas</td>
+                  <td className="py-4 px-6 text-left font-medium text-white">Official Name</td>
+                  <td className="py-4 px-6 text-left text-white">Teen Patti Vegas (3 Patti Vegas)</td>
                 </tr>
                 <tr className="bg-[#06091F]/50">
                   <td className="py-4 px-6 text-left font-medium text-white">Category</td>
-                  <td className="py-4 px-6 text-left text-white">Cards, Game</td>
+                  <td className="py-4 px-6 text-left text-white">Cards, Casino, Game</td>
                 </tr>
                 <tr className="bg-[#0a1029]/50">
-                  <td className="py-4 px-6 text-left font-medium text-white">APK Size</td>
-                  <td className="py-4 px-6 text-left text-white">47.21MB</td>
+                  <td className="py-4 px-6 text-left font-medium text-white">APK File Size</td>
+                  <td className="py-4 px-6 text-left text-white">47.21 MB</td>
                 </tr>
                 <tr className="bg-[#06091F]/50">
                   <td className="py-4 px-6 text-left font-medium text-white">Latest Version</td>
-                  <td className="py-4 px-6 text-left text-white">1.3(1)</td>
+                  <td className="py-4 px-6 text-left text-white">v3.03 (2026)</td>
                 </tr>
                 <tr className="bg-[#0a1029]/50">
                   <td className="py-4 px-6 text-left font-medium text-white">Requirements</td>
@@ -366,27 +371,31 @@ export default function Home() {
                 </tr>
                 <tr className="bg-[#06091F]/50">
                   <td className="py-4 px-6 text-left font-medium text-white">Last Update</td>
-                  <td className="py-4 px-6 text-left text-white">15-March-2026</td>
+                  <td className="py-4 px-6 text-left text-white">April 2026</td>
                 </tr>
                 <tr className="bg-[#0a1029]/50">
-                  <td className="py-4 px-6 text-left font-medium text-white">Downloads</td>
+                  <td className="py-4 px-6 text-left font-medium text-white">Total Downloads</td>
                   <td className="py-4 px-6 text-left text-white">600K+</td>
                 </tr>
                 <tr className="bg-[#06091F]/50">
-                  <td className="py-4 px-6 text-left font-medium text-white">Ratings</td>
+                  <td className="py-4 px-6 text-left font-medium text-white">App Rating</td>
                   <td className="py-4 px-6 text-left text-white">4.5/5</td>
                 </tr>
                 <tr className="bg-[#0a1029]/50">
-                  <td className="py-4 px-6 text-left font-medium text-white">Developers</td>
-                  <td className="py-4 px-6 text-left text-white">3 Patti Vegas</td>
+                  <td className="py-4 px-6 text-left font-medium text-white">Developer Name</td>
+                  <td className="py-4 px-6 text-left text-white">3 Patti Vegas Pakistan</td>
                 </tr>
                 <tr className="bg-[#06091F]/50">
-                  <td className="py-4 px-6 text-left font-medium text-white">Gaming Language</td>
-                  <td className="py-4 px-6 text-left text-white">English & Urdu</td>
+                  <td className="py-4 px-6 text-left font-medium text-white">Supported Languages</td>
+                  <td className="py-4 px-6 text-left text-white">English & Urdu (اردو)</td>
                 </tr>
                 <tr className="bg-[#0a1029]/50">
+                  <td className="py-4 px-6 text-left font-medium text-white">Platform</td>
+                  <td className="py-4 px-6 text-left text-white">Android, PCs (via Emulator)</td>
+                </tr>
+                <tr className="bg-[#06091F]/50">
                   <td className="py-4 px-6 text-left font-medium text-white">Price</td>
-                  <td className="py-4 px-6 text-left text-white">Free (0$)</td>
+                  <td className="py-4 px-6 text-left text-white">Free to Download</td>
                 </tr>
               </tbody>
             </table>
@@ -400,12 +409,45 @@ export default function Home() {
           <h2 className="text-3xl font-bold mb-8 text-[#FFA500]">What is the Teen Patti Vegas Game?</h2>
           <div className="space-y-6">
             <p className="text-gray-300 leading-relaxed">
-              Teen Patti Vegas Game is an app that gives you fun and comfort when you play different online games. It can give you money if you play games smartly. Some games of this wagering platform are based on luck, while other games require skills and practice. You can bet on live sports matches that make this game more exciting.
+              <strong>Teen Patti Vegas</strong>, also widely known as <strong>3 Patti Vegas</strong>, is a real money casino gaming app that has quickly become one of the most popular online card game platforms in Pakistan. Inspired by Indian poker and packed with enhanced features, this app allows users from different regions of Pakistan — including <strong>Punjab, Islamabad, Azad Kashmir, Gilgit-Baltistan, Sindh, and Balochistan</strong> — to earn significant profits by playing a variety of card and casino games right from their Android smartphones.
             </p>
             <p className="text-gray-300 leading-relaxed">
-              It is not difficult to play for anyone because it is made with a simple design. You can also change the language to Urdu for better understanding and comfort. Users can enjoy daily, weekly, and monthly bonuses that are provided by the platform. Your VIP level increases when you deposit more money, and it means you can get higher rewards and special offers.
+              The app offers a <strong>massive collection of 35+ games</strong> spanning three categories: Multiplayer, Skill, and Slots. From classic card games like Teen Patti, Rummy, and Poker to exciting casino-style games like Dragon vs Tiger, Andar Bahar, Roulette, Ludo, and Mines — there&apos;s something for every type of player. Some games are based purely on luck, while others require strategy, skills, and practice, giving both beginners and experienced players an equal chance to win.
+            </p>
+            <p className="text-gray-300 leading-relaxed">
+              One of the standout qualities of TeenPatti Vegas is that it <strong>works flawlessly even on a 2G internet connection</strong>, so you can enjoy the thrill of gaming anytime and anywhere without worrying about connectivity. The app&apos;s interface is designed to be user-friendly and simple, making it easy for newcomers to navigate. You can also switch the language to <strong>Urdu (اردو)</strong> for better understanding and comfort.
+            </p>
+            <p className="text-gray-300 leading-relaxed">
+              What truly sets 3 Patti Vegas apart from other casino apps is its generous reward system. New players receive a <strong>welcome bonus of PKR 100</strong> just for signing up, which allows you to start playing matches without investing any real money. Regular players enjoy daily login bonuses, weekly promotions, Lucky Draw and Spin rewards, Level-Up bonuses, and VIP membership perks. Your VIP level increases as you deposit more, unlocking higher daily rewards, priority support, and access to exclusive tournaments. Adding chips is simple via JazzCash or EasyPaisa, and withdrawals are processed <strong>within minutes</strong> directly to your mobile wallet account.
+            </p>
+            <p className="text-gray-300 leading-relaxed">
+              The stunning backgrounds, distinctive sounds, and smooth animations keep users engaged for hours on this single platform. Furthermore, the APK version available on our website is compatible with both Android devices and PCs (via emulator). You can download and install it easily at no cost.
             </p>
           </div>
+        </div>
+      </section>
+
+      {/* Complete Games List Section */}
+      <section className="py-12 px-4 md:px-8 max-w-7xl mx-auto">
+        <div className="bg-secondary rounded-xl p-8">
+          <h2 className="text-2xl md:text-3xl font-bold mb-6 text-accent">Games Available in Teen Patti Vegas</h2>
+          <p className="text-gray-300 mb-6">3 Patti Vegas is known for its wide variety of games that keeps users engaged for hours. With this app, you can access all the exciting casino-style games right on your smartphone, without needing to visit a physical casino. All these games are divided into three categories — <strong>Multiplayer, Skill, and Slots</strong>. Here is the complete list of games available:</p>
+          <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+            {[
+              "Teen Patti", "Teen Patti 20-20", "Rummy", "10 Cards", "Poker", "Best of Five",
+              "Dragon vs Tiger", "Andar Bahar", "Baccarat", "Black Jack",
+              "Ludo", "Zoo Roulette", "Roulette", "Car Roulette",
+              "Mines", "7 UP Down", "Crash", "Rock Paper Scissors",
+              "Fishing Rush", "Sweet Bonanza", "777 Bingo", "God of Fortune",
+              "Fruit Line", "Direction Bounty", "One of Three", "Domino",
+              "Sports Betting", "Cricket Betting", "Football Betting"
+            ].map((game) => (
+              <div key={game} className="bg-[#0A1029] px-4 py-3 rounded-lg text-center">
+                <span className="text-gray-300 text-sm font-medium">{game}</span>
+              </div>
+            ))}
+          </div>
+          <p className="text-gray-400 mt-6 text-sm italic">* New games are added regularly with each update. The platform currently offers 35+ games with real cash prizes available 24/7.</p>
         </div>
       </section>
 
@@ -416,8 +458,8 @@ export default function Home() {
 
           {/* Refer & Earn */}
           <div className="mb-8">
-            <h3 className="text-xl font-semibold mb-4 text-[#FFA500]">Refer & Earn</h3>
-            <p className="text-gray-300 mb-4">You can earn money on TeenPatti Vegas just by referring your friends and family to the game. Each valid sub player on this game helps you earn up to 800 to 1000 rupees as a bonus.</p>
+            <h3 className="text-xl font-semibold mb-4 text-[#FFA500]">Refer & Earn — Up to PKR 1000 Per Referral</h3>
+            <p className="text-gray-300 mb-4">The app includes a robust referral program, enabling you to earn a commission by inviting friends and family to join the platform. Each valid sub player on this game helps you earn up to <strong>800 to 1000 rupees as a bonus</strong>. When your referrals deposit funds and begin playing, you receive a <strong>percentage of their investment as a commission, which can be as high as 30%</strong> depending on your level. This provides you the opportunity to create a passive income stream by simply sharing your referral link on WhatsApp, Facebook, or Telegram.</p>
           </div>
 
           {/* New Player Bonus */}
@@ -496,10 +538,46 @@ export default function Home() {
             </div>
           </div>
 
+          {/* Sign-Up Bonus */}
+          <div className="mb-8">
+            <h3 className="text-xl font-semibold mb-4 text-[#FFA500]">Sign-Up Welcome Bonus — PKR 100 Free</h3>
+            <p className="text-gray-300">New users receive a <strong>free signup bonus of PKR 100</strong> when they log in for the first time. This welcome gift allows you to start playing right away without depositing any money. Although the amount may seem small, it&apos;s enough to explore the app, try different games, and get a feel for the platform before investing your own money.</p>
+          </div>
+
+          {/* Daily Login Bonus */}
+          <div className="mb-8">
+            <h3 className="text-xl font-semibold mb-4 text-[#FFA500]">Daily Login Bonus — Free Rewards Every Day</h3>
+            <p className="text-gray-300">One of the most popular bonuses offered by 3 Patti Vegas is the <strong>Daily Login Bonus</strong>. Every time you log in to the game, you receive free chips as a reward. The best part is that this bonus <strong>increases with consecutive logins</strong> — so the more days you log in without missing, the bigger the reward becomes. There is no requirement to deposit funds in order to receive this bonus. Simply open the app each day, and you will receive free chips or cash balance added to your account. Players who achieve VIP Exclusive Membership status can access even greater daily rewards.</p>
+          </div>
+
+          {/* Lucky Draw & Spin */}
+          <div className="mb-8">
+            <h3 className="text-xl font-semibold mb-4 text-[#FFA500]">Lucky Draw & Daily Spin Bonuses</h3>
+            <p className="text-gray-300">To add an extra layer of excitement, Teen Patti Vegas offers <strong>Lucky Draws and Spin Bonuses</strong>. Players can participate in lucky draws or spin a wheel to win random rewards, including free chips, special in-game items, and other valuable prizes. Test your fortune daily with the spinning wheel feature, which presents various tiers of rewards — from small chip bonuses to jackpot-level prizes.</p>
+          </div>
+
+          {/* Level-Up Bonus */}
+          <div className="mb-8">
+            <h3 className="text-xl font-semibold mb-4 text-[#FFA500]">Level-Up Bonus</h3>
+            <p className="text-gray-300">As you play more games, you&apos;ll gradually increase your level within the TeenPatti Vegas app. With each level-up, you are rewarded with a <strong>Level-Up Bonus</strong> — extra chips, special badges, and access to higher-stakes tables. This system encourages consistent play and rewards dedicated players with progressively better perks.</p>
+          </div>
+
+          {/* Sports Bonus */}
+          <div className="mb-8">
+            <h3 className="text-xl font-semibold mb-4 text-[#FFA500]">Sports Bonus & Commission</h3>
+            <p className="text-gray-300">One of the standout features of the app is its <strong>Sports Bonus system</strong>. When your referred users engage in sports betting activities — such as cricket betting, football matches, or any other live sports-related games — you receive extra rewards in addition to your regular referral commission. This bonus is entirely separate from the standard referral commission associated with casino and card games, giving you an additional income stream.</p>
+          </div>
+
           {/* Double Bonus */}
-          <div>
+          <div className="mb-8">
             <h3 className="text-xl font-semibold mb-4 text-[#FFA500]">Double Bonus</h3>
             <p className="text-gray-300">To earn a double bonus on this platform, you must share the game link with your friends on social media like WhatsApp, Facebook, and Telegram. The more you invite your friends, the higher you can earn from this platform.</p>
+          </div>
+
+          {/* Agent Promotions */}
+          <div>
+            <h3 className="text-xl font-semibold mb-4 text-[#FFA500]">Agent Promotions & Events</h3>
+            <p className="text-gray-300">The platform frequently organizes <strong>in-app events and promotional campaigns</strong> to maintain an exciting and rewarding environment. These include daily bonuses, weekly contests, limited-time challenges, and seasonal promotions that help players earn extra cash, spin coins, or gift rewards. You will receive all updates directly through the notification tab in the app, so make sure to check regularly. Engaging in these events not only enhances your gameplay experience but also offers additional chances to win substantial rewards without any extra cost.</p>
           </div>
         </div>
       </section>
@@ -1042,7 +1120,7 @@ export default function Home() {
                 </span>
               </summary>
               <div className="p-4 pt-0 text-gray-300 border-t border-gray-700/50">
-                Teen Patti Vegas provides 24/7 customer support via WhatsApp and Telegram. The support team is always ready to solve your problems and answer your questions quickly. You can also reach out through the in-app support chat.
+                Teen Patti Vegas provides 24/7 customer support via WhatsApp and Telegram. The support team is always ready to solve your problems and answer your questions quickly. You can also reach out through the in-app support chat by tapping the &apos;Support&apos; option at the top right corner of the app.
               </div>
             </details>
 
@@ -1056,9 +1134,61 @@ export default function Home() {
                 </span>
               </summary>
               <div className="p-4 pt-0 text-gray-300 border-t border-gray-700/50">
-                Teen Patti Vegas offers several promotions for new users: a 100% New Player Welcome Bonus on first deposit (up to PKR 100,000 match), a Refer & Earn bonus of 800-1000 PKR per valid referral, a Recharge Rebate of up to 30%, VIP Transfer bonuses, and daily login rewards.
+                Teen Patti Vegas offers several promotions for new users: a PKR 100 free signup bonus, a 100% New Player Welcome Bonus on first deposit (up to PKR 100,000 match), a Refer & Earn bonus of 800-1000 PKR per valid referral with up to 30% commission, a Recharge Rebate of up to 30%, Lucky Draw and Daily Spin rewards, Level-Up bonuses, VIP Transfer bonuses, Sports bonuses, and daily login rewards that increase with consecutive logins.
               </div>
             </details>
+
+            <details className="group bg-[#0a1029]/50 rounded-xl border border-gray-700 hover:border-[#FFA500]/50 transition-all duration-300 shadow-md hover:shadow-lg">
+              <summary className="flex items-center justify-between p-4 cursor-pointer text-white font-medium hover:text-[#FFA500] transition-colors">
+                Is there a mod version of Teen Patti Vegas available?
+                <span className="transition group-open:rotate-180">
+                  <svg fill="none" height="24" shapeRendering="geometricPrecision" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="1.5" viewBox="0 0 24 24" width="24">
+                    <path d="M6 9l6 6 6-6"></path>
+                  </svg>
+                </span>
+              </summary>
+              <div className="p-4 pt-0 text-gray-300 border-t border-gray-700/50">
+                No, there is no mod APK version of Teen Patti Vegas available. Always download the official APK from our website to ensure your account security and data safety. Mod versions from unofficial sources may contain malware, compromise your personal information, or result in account bans.
+              </div>
+            </details>
+
+            <details className="group bg-[#0a1029]/50 rounded-xl border border-gray-700 hover:border-[#FFA500]/50 transition-all duration-300 shadow-md hover:shadow-lg">
+              <summary className="flex items-center justify-between p-4 cursor-pointer text-white font-medium hover:text-[#FFA500] transition-colors">
+                Can I download Teen Patti Vegas on PC?
+                <span className="transition group-open:rotate-180">
+                  <svg fill="none" height="24" shapeRendering="geometricPrecision" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="1.5" viewBox="0 0 24 24" width="24">
+                    <path d="M6 9l6 6 6-6"></path>
+                  </svg>
+                </span>
+              </summary>
+              <div className="p-4 pt-0 text-gray-300 border-t border-gray-700/50">
+                Yes, you can download and play Teen Patti Vegas on PC by using an Android emulator like BlueStacks. Simply install BlueStacks on your computer, download the APK file, and run it inside the emulator. This allows you to enjoy the game on a larger screen with full functionality.
+              </div>
+            </details>
+          </div>
+        </div>
+      </section>
+
+      {/* Personal Review */}
+      <section className="py-12 px-4 md:px-8 max-w-7xl mx-auto">
+        <div className="bg-secondary rounded-xl p-8">
+          <h2 className="text-2xl md:text-3xl font-bold mb-6 text-accent">Personal Review — Teen Patti Vegas App</h2>
+          <div className="space-y-4 text-gray-300 leading-relaxed">
+            <p>
+              Teen Patti Vegas (3 Patti Vegas) is a highly enjoyable and engaging casino game app, especially for fans of Teen Patti and card games in Pakistan. What I appreciated most is its <strong>user-friendly interface</strong>, which makes navigating the app smooth and easy even for complete beginners. The dark theme with vibrant orange accents looks professional and modern, and loading times are impressively fast — even on older Android devices with slow internet.
+            </p>
+            <p>
+              The <strong>variety of games</strong> is where this app truly shines. With 35+ games available — including different Teen Patti variants, Rummy, Dragon vs Tiger, Roulette, Ludo, Mines, and many more — the gameplay never gets stale. Each game has clear rules displayed before you start, making it easy to learn new ones without confusion.
+            </p>
+            <p>
+              The <strong>social and multiplayer features</strong> allow you to interact with real players from across Pakistan, which makes each match more dynamic and exciting. The daily login bonuses, referral rewards (PKR 800-1000 per valid referral), and other free chip incentives are generous, ensuring that you can play without having to spend real money — which is a significant advantage for beginners who want to test the waters.
+            </p>
+            <p>
+              The <strong>deposit and withdrawal process</strong> through JazzCash and EasyPaisa is remarkably smooth. I deposited PKR 500 via EasyPaisa and the balance reflected in my game wallet within seconds. Withdrawals were equally fast — the money appeared in my account within 5-10 minutes. The minimum deposit of PKR 100 makes it accessible for everyone.
+            </p>
+            <p>
+              If I had to point out areas for improvement: the app is currently <strong>not available for iOS</strong> users, which limits the audience. Also, while the customer support via WhatsApp and Telegram is responsive, an in-app live chat would be even more convenient. Overall, Teen Patti Vegas delivers a premium gaming experience with fair play, solid rewards, and reliable payment processing — making it one of the best casino apps available in Pakistan right now.
+            </p>
           </div>
         </div>
       </section>
@@ -1066,10 +1196,21 @@ export default function Home() {
       {/* Conclusion */}
       <section className="pt-12 pb-4 px-4 md:px-8 max-w-7xl mx-auto">
         <div className="bg-secondary rounded-xl p-8">
-          <h2 className="text-2xl md:text-3xl font-bold mb-6 text-accent">Final Thoughts</h2>
-          <p className="text-gray-300">
-            Teen Patti Vegas is not just a game but an opportunity for you to get unlimited rewards, bonuses, and potential outcomes just by playing your favorite games. The user-friendly interface and engaging layout make it a top trending choice among casino enthusiasts. You can find all of your favorite games in just a single app without any subscription charges. It offers you instant entertainment and quick earnings at your fingertips. If you want to invest your money in casino games, then TeenPatti Vegas could be the best choice for you. Download the game, play your favorite games, and get unlimited rewards and bonuses from today.
-          </p>
+          <h2 className="text-2xl md:text-3xl font-bold mb-6 text-accent">Final Thoughts — Is Teen Patti Vegas Worth It?</h2>
+          <div className="space-y-4 text-gray-300 leading-relaxed">
+            <p>
+              Teen Patti Vegas surpasses traditional card game apps by offering a complete casino experience with 35+ games, generous bonuses, and reliable real-money payouts. Whether you&apos;re a casual player looking for entertainment or a competitive gamer aiming to earn real cash, this app has everything you need in a single download.
+            </p>
+            <p>
+              The combination of a <strong>PKR 100 welcome bonus</strong>, daily login rewards, up to 30% referral commissions, Lucky Draw prizes, and VIP membership perks ensures that players always have multiple ways to earn. The chances of losing money are lower when you play strategically and take advantage of the free bonuses offered.
+            </p>
+            <p>
+              Another way to earn cash without any investment is through the <strong>friend referral program</strong>, which pays PKR 800-1000 per valid sub player — simply share your referral link on WhatsApp, Facebook, or Telegram and start building a passive income stream.
+            </p>
+            <p>
+              <strong>Download Teen Patti Vegas today</strong>, claim your free welcome bonus, and join 600,000+ players who are already enjoying Pakistan&apos;s top casino gaming platform. The app is free to download, works on any Android device (even with 2G internet), and offers instant withdrawals via JazzCash and EasyPaisa. Start playing now and experience the thrill of winning real money!
+            </p>
+          </div>
         </div>
       </section>
     </>

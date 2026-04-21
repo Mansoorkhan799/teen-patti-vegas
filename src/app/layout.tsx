@@ -20,38 +20,49 @@ export const viewport: Viewport = {
 export const metadata: Metadata = {
   metadataBase: new URL('https://teenpattivegasgame.com.pk'),
   title: {
-    default: "Teen Patti Vegas Pakistan v1.3 Free Download Official APK",
+    default: "Teen Patti Vegas | 3 Patti Vegas Pakistan APK Download 2026 - Real Money",
     template: "%s | Teen Patti Vegas"
   },
-  description: "Download Teen Patti Vegas APK — Pakistan's #1 casino platform. Play Teen Patti, Rummy & Dragon vs Tiger. Win real cash via JazzCash & EasyPaisa. Join 600K+ players!",
+  description: "Download Teen Patti Vegas APK latest version 2026 — Pakistan's #1 real money casino app. Play 35+ games: Teen Patti, Rummy, Dragon vs Tiger, Ludo & more. Earn real cash via JazzCash & EasyPaisa. Get PKR 100 welcome bonus. Works on 2G!",
   keywords: [
     "Teen Patti Vegas",
-    "teen patti vegas game",
+    "3 Patti Vegas",
+    "3patti vegas",
     "teen patti vegas download",
     "teen patti vegas app",
     "teen patti vegas apk",
     "teen patti vegas pakistan",
+    "teenpatti vegas",
+    "teen patti vegas game",
     "teen patti vegas online",
     "download teen patti vegas",
     "teen patti vegas real money",
-    "3 Patti Vegas",
+    "teen patti vegas latest version",
+    "teen patti vegas star",
+    "3 patti vegas download",
+    "3 patti vegas apk",
+    "ludo vegas",
     "how to play teen patti vegas",
     "teen patti vegas 2026",
     "Pakistan card games",
+    "casino app pakistan",
     "Teen Patti game",
     "online rummy game",
     "earn money playing cards",
     "Android gaming app 2026",
     "JazzCash gaming",
     "EasyPaisa gaming",
+    "easypaisa game",
+    "jazzcash game",
     "mobile card games",
     "real money games Pakistan",
     "card game earning app",
     "Teen Patti online",
     "Dragon vs Tiger",
     "best earning app Pakistan",
-    "teenpatti vegas",
-    "teen patti vegas apk download"
+    "teen patti vegas apk download",
+    "pkr 100 bonus",
+    "welcome bonus pkr"
   ],
   authors: [{ name: "Teen Patti Vegas Team" }],
   creator: "Teen Patti Vegas",
@@ -83,8 +94,8 @@ export const metadata: Metadata = {
     canonical: "https://teenpattivegasgame.com.pk",
   },
   openGraph: {
-    title: "Teen Patti Vegas Pakistan v1.3 Free Download Official APK",
-    description: "Pakistan's #1 Teen Patti Vegas platform. Join 600K+ players. Play Teen Patti, Rummy & more. Earn real money via JazzCash & EasyPaisa. Download now!",
+    title: "Teen Patti Vegas | 3 Patti Vegas Pakistan - Download APK & Earn Real Money",
+    description: "Pakistan's #1 Teen Patti Vegas platform. Join 600K+ players. Play 35+ games — Teen Patti, Rummy, Dragon vs Tiger & more. Earn real money via JazzCash & EasyPaisa. Get PKR 100 welcome bonus!",
     url: "https://teenpattivegasgame.com.pk",
     siteName: "Teen Patti Vegas",
     locale: "en_US",
@@ -106,8 +117,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Teen Patti Vegas Pakistan v1.3 Free Download Official APK",
-    description: "Pakistan's #1 Teen Patti Vegas platform. Join 600K+ players. Play Teen Patti, Rummy & more. Earn real money via JazzCash & EasyPaisa. Download now!",
+    title: "Teen Patti Vegas | 3 Patti Vegas Pakistan - Real Money App",
+    description: "Pakistan's #1 Teen Patti Vegas platform. Play 35+ games, earn real cash via JazzCash & EasyPaisa. Get PKR 100 welcome bonus!",
     creator: "@teenpattivegas",
     images: [
       {
@@ -199,88 +210,7 @@ export default function RootLayout({
         <ScrollToTopWrapper />
         <WebVitalsTracker />
         
-        {/* Structured data for Organization */}
-        <Script
-          id="organization-schema"
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{
-            __html: JSON.stringify({
-              "@context": "https://schema.org",
-              "@type": "Organization",
-              "@id": "https://teenpattivegasgame.com.pk/#organization",
-              "name": "Teen Patti Vegas",
-              "alternateName": [
-                "Teen Patti Vegas Pakistan",
-                "TeenPattiVegas",
-                "3 Patti Vegas",
-                "Teen Patti Vegas Game"
-              ],
-              "url": "https://teenpattivegasgame.com.pk",
-              "logo": {
-                "@type": "ImageObject",
-                "url": "https://teenpattivegasgame.com.pk/teen-patti-vegas-pakistan-logo.webp",
-                "width": 192,
-                "height": 192
-              },
-              "description": "Teen Patti Vegas is Pakistan's top casino gaming platform, offering Teen Patti, Rummy, Dragon vs Tiger and many other games with real cash rewards.",
-              "areaServed": {
-                "@type": "Country",
-                "name": "Pakistan"
-              },
-              "knowsAbout": [
-                "Teen Patti",
-                "Rummy",
-                "Dragon vs Tiger",
-                "Andar Bahar",
-                "Casino Games",
-                "Online Card Games",
-                "JazzCash Payments",
-                "EasyPaisa Payments",
-                "Mobile Gaming Pakistan"
-              ],
-              "contactPoint": {
-                "@type": "ContactPoint",
-                "email": "support@teenpattivegasgame.com.pk",
-                "contactType": "Customer Support",
-                "areaServed": "PK",
-                "availableLanguage": ["English", "Urdu"]
-              },
-              "sameAs": [
-                "https://www.facebook.com/share/16zhtoNKJq/?mibextid=wwXIfr",
-                "https://www.pinterest.com/3pattivegaspk/"
-              ]
-            })
-          }}
-        />
-        
-        {/* Structured data for SoftwareApplication */}
-        <Script
-          id="app-schema"
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{
-            __html: JSON.stringify({
-              "@context": "https://schema.org",
-              "@type": "SoftwareApplication",
-              "name": "Teen Patti Vegas",
-              "url": "https://teenpattivegasgame.com.pk/",
-              "operatingSystem": "Android 5.0+",
-              "applicationCategory": "GameApplication",
-              "author": {
-                "@id": "https://teenpattivegasgame.com.pk/#organization"
-              },
-              "offers": {
-                "@type": "Offer",
-                "price": "0",
-                "priceCurrency": "PKR"
-              },
-              "aggregateRating": {
-                "@type": "AggregateRating",
-                "ratingValue": "4.5",
-                "ratingCount": "600000"
-              }
-            })
-          }}
-        />
+        {/* Organization & SoftwareApplication schema are in page.tsx to avoid duplication */}
       </body>
     </html>
   );
