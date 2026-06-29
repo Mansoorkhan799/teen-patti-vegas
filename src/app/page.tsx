@@ -3,7 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: "Teen Patti Vegas | 3 Patti Vegas Pakistan APK Download 2026 - Real Money",
+  title: "Teen Patti Vegas Game Pakistan v1.3(1) | Download Official APK",
   description: "Download Teen Patti Vegas APK latest version 2026 — Pakistan's #1 real money casino app. Play 35+ games: Teen Patti, Rummy, Dragon vs Tiger, Ludo & more. Earn real cash via JazzCash & EasyPaisa. Get PKR 100 welcome bonus. Works on 2G!",
   keywords: [
     "Teen Patti Vegas",
@@ -43,7 +43,7 @@ export const metadata: Metadata = {
     canonical: "https://teenpattivegasgame.com.pk",
   },
   openGraph: {
-    title: 'Teen Patti Vegas | 3 Patti Vegas Pakistan - Download APK & Earn Real Money',
+    title: 'Teen Patti Vegas Game Pakistan v1.3(1) | Download Official APK',
     description: "Pakistan's #1 Teen Patti Vegas platform. Join 600K+ players. Play 35+ games — Teen Patti, Rummy, Dragon vs Tiger & more. Earn real money via JazzCash & EasyPaisa. Get PKR 100 welcome bonus!",
     images: [
       {
@@ -69,7 +69,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Teen Patti Vegas | 3 Patti Vegas Pakistan - Real Money App',
+    title: 'Teen Patti Vegas Game Pakistan v1.3(1) | Download Official APK',
     description: "Pakistan's #1 Teen Patti Vegas platform. Play 35+ games, earn real cash via JazzCash & EasyPaisa. Get PKR 100 welcome bonus!",
     images: ['https://teenpattivegasgame.com.pk/feature/og-image.webp', 'https://teenpattivegasgame.com.pk/teen-patti-vegas.webp']
   }
