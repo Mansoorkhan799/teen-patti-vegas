@@ -20,7 +20,7 @@ export const viewport: Viewport = {
 export const metadata: Metadata = {
   metadataBase: new URL('https://teenpattivegasgame.com.pk'),
   title: {
-    default: "Teen Patti Vegas Game Pakistan v1.3(1) | Download Official APK",
+    default: "Teen Patti Vegas Pakistan v1.3(1) Free Download Official APK",
     template: "%s | Teen Patti Vegas"
   },
   description: "Download Teen Patti Vegas APK latest version 2026 — Pakistan's #1 real money casino app. Play 35+ games: Teen Patti, Rummy, Dragon vs Tiger, Ludo & more. Earn real cash via JazzCash & EasyPaisa. Get PKR 100 welcome bonus. Works on 2G!",
@@ -94,7 +94,7 @@ export const metadata: Metadata = {
     canonical: "https://teenpattivegasgame.com.pk",
   },
   openGraph: {
-    title: "Teen Patti Vegas Game Pakistan v1.3(1) | Download Official APK",
+    title: "Teen Patti Vegas Pakistan v1.3(1) Free Download Official APK",
     description: "Pakistan's #1 Teen Patti Vegas platform. Join 600K+ players. Play 35+ games — Teen Patti, Rummy, Dragon vs Tiger & more. Earn real money via JazzCash & EasyPaisa. Get PKR 100 welcome bonus!",
     url: "https://teenpattivegasgame.com.pk",
     siteName: "Teen Patti Vegas",
@@ -117,7 +117,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Teen Patti Vegas Game Pakistan v1.3(1) | Download Official APK",
+    title: "Teen Patti Vegas Pakistan v1.3(1) Free Download Official APK",
     description: "Pakistan's #1 Teen Patti Vegas platform. Play 35+ games, earn real cash via JazzCash & EasyPaisa. Get PKR 100 welcome bonus!",
     creator: "@teenpattivegas",
     images: [
