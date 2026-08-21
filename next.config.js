@@ -3,7 +3,10 @@ const nextConfig = {
   poweredByHeader: false,
   reactStrictMode: true,
   compress: true,
-  
+
+  // Silence Next 16+ Turbopack/webpack mismatch if Next is upgraded later
+  turbopack: {},
+
   // Target modern browsers - no legacy polyfills
   compiler: {
     removeConsole: process.env.NODE_ENV === 'production',
@@ -112,8 +115,26 @@ const nextConfig = {
       {
         source: '/favicon.ico',
         headers: [
-          { key: 'X-Robots-Tag', value: 'noindex' },
-          { key: 'Cache-Control', value: 'public, max-age=31536000, immutable' },
+          // Do NOT noindex favicon — Google needs to crawl it for SERP branding
+          { key: 'Cache-Control', value: 'public, max-age=86400, must-revalidate' },
+        ],
+      },
+      {
+        source: '/favicon-48x48.png',
+        headers: [
+          { key: 'Cache-Control', value: 'public, max-age=86400, must-revalidate' },
+        ],
+      },
+      {
+        source: '/apple-touch-icon.png',
+        headers: [
+          { key: 'Cache-Control', value: 'public, max-age=86400, must-revalidate' },
+        ],
+      },
+      {
+        source: '/icon-192.png',
+        headers: [
+          { key: 'Cache-Control', value: 'public, max-age=86400, must-revalidate' },
         ],
       },
     ];
